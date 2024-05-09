@@ -1,0 +1,5 @@
+binaryResponse	RiskType	n
+CR/PR	High	44
+CR/PR	Low	24
+SD/PD	High	105
+SD/PD	Low	125
