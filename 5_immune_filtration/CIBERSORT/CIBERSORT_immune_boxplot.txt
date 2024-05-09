@@ -1,0 +1,1805 @@
+ID	RiskType	Score	Cell
+TCGA-LN-A9FO-01A	High	0.0264927531876167	B cells naive
+TCGA-IG-A50L-01A	High	0.0003276564752865	B cells naive
+TCGA-Z6-A8JE-01A	High	0.0	B cells naive
+TCGA-IG-A3YB-01A	Low	0.0	B cells naive
+TCGA-Z6-AAPN-01A	High	0.0	B cells naive
+TCGA-L5-A893-01A	Low	0.264916308788869	B cells naive
+TCGA-L5-A43C-01A	Low	0.0194788377536139	B cells naive
+TCGA-L5-A4OO-01A	High	0.0507596447763503	B cells naive
+TCGA-Z6-A8JD-01A	Low	0.168475184396509	B cells naive
+TCGA-V5-A7RC-06A	High	0.0	B cells naive
+TCGA-V5-A7RC-01B	High	0.0324368663987465	B cells naive
+TCGA-JY-A6FE-01A	Low	0.0006620142028068	B cells naive
+TCGA-LN-A5U5-01A	High	0.0407116346587635	B cells naive
+TCGA-IG-A8O2-01A	High	0.0106904411447943	B cells naive
+TCGA-RE-A7BO-01A	High	0.0534257017006051	B cells naive
+TCGA-2H-A9GK-01A	Low	0.0028273605195866	B cells naive
+TCGA-L5-A8NM-01A	High	0.001438751967487	B cells naive
+TCGA-R6-A6DN-01B	High	0.0	B cells naive
+TCGA-VR-A8EW-01A	High	0.0542879429075799	B cells naive
+TCGA-V5-AASX-01A	Low	0.0	B cells naive
+TCGA-IG-A6QS-01A	High	0.0	B cells naive
+TCGA-L7-A56G-01A	Low	0.0007318149278496	B cells naive
+TCGA-LN-A4A9-01A	Low	0.0131745989283362	B cells naive
+TCGA-LN-A7HW-01A	Low	0.001218885701357	B cells naive
+TCGA-LN-A7HY-01A	High	0.0004071402502783	B cells naive
+TCGA-IG-A97I-01A	High	0.0043867483787152	B cells naive
+TCGA-LN-A7HX-01A	High	0.0	B cells naive
+TCGA-LN-A9FR-01A	Low	0.0282287333150243	B cells naive
+TCGA-LN-A49P-01A	High	0.0046413419885256	B cells naive
+TCGA-LN-A5U6-01A	Low	0.0	B cells naive
+TCGA-VR-A8ER-01A	High	0.0130256543354602	B cells naive
+TCGA-LN-A4A1-01A	Low	0.0	B cells naive
+TCGA-LN-A49X-01A	Low	0.0511551336376686	B cells naive
+TCGA-LN-A49M-01A	High	0.0	B cells naive
+TCGA-R6-A8WG-01A	High	0.0663157591806021	B cells naive
+TCGA-LN-A9FQ-01A	Low	0.0620194328752604	B cells naive
+TCGA-LN-A7HZ-01A	High	0.0012501876861804	B cells naive
+TCGA-LN-A8I1-01A	Low	0.0	B cells naive
+TCGA-L5-A8NL-01A	High	0.0436110794136062	B cells naive
+TCGA-LN-A49W-01A	High	0.0135400416147392	B cells naive
+TCGA-LN-A49O-01A	High	0.0084132766302781	B cells naive
+TCGA-L5-A8NS-01A	High	0.0191535061555552	B cells naive
+TCGA-2H-A9GI-01A	Low	0.0692178739784032	B cells naive
+TCGA-IG-A97H-01A	Low	0.0	B cells naive
+TCGA-IG-A7DP-01A	Low	0.0163055867455782	B cells naive
+TCGA-LN-A49U-01A	Low	0.0188269082128401	B cells naive
+TCGA-V5-AASV-01A	Low	0.0	B cells naive
+TCGA-L5-A88S-01A	High	0.0	B cells naive
+TCGA-LN-A4A8-01A	Low	0.0736405186936909	B cells naive
+TCGA-IC-A6RF-01A	Low	0.164149663319236	B cells naive
+TCGA-R6-A8W5-01B	High	0.0253599991791157	B cells naive
+TCGA-VR-AA7I-01A	Low	0.001728754033647	B cells naive
+TCGA-IG-A51D-01A	Low	0.0019443309451171	B cells naive
+TCGA-VR-AA4G-01A	High	0.0172950380432392	B cells naive
+TCGA-VR-A8EZ-01A	High	0.0	B cells naive
+TCGA-VR-A8EU-01A	High	0.0	B cells naive
+TCGA-IG-A4P3-01A	Low	0.0372831524588585	B cells naive
+TCGA-S8-A6BV-01A	High	0.0057929705777672	B cells naive
+TCGA-IG-A3YC-01A	Low	0.0	B cells naive
+TCGA-IG-A3YA-01A	Low	0.104371161938322	B cells naive
+TCGA-L5-A8NQ-01A	Low	0.0128141792433327	B cells naive
+TCGA-JY-A939-01A	Low	0.0623602999391583	B cells naive
+TCGA-LN-A4A5-01A	Low	1.94396304759826e-05	B cells naive
+TCGA-VR-A8EQ-01A	High	0.0207408579911201	B cells naive
+TCGA-L5-A4OE-01A	High	0.0074030689657091	B cells naive
+TCGA-JY-A93E-01A	High	0.072662044715327	B cells naive
+TCGA-LN-A5U7-01A	Low	0.0234416410806187	B cells naive
+TCGA-2H-A9GF-01A	High	0.0300289337729205	B cells naive
+TCGA-VR-A8EO-01A	Low	0.0028440648713218	B cells naive
+TCGA-L5-A8NT-01A	High	0.0898398411219249	B cells naive
+TCGA-VR-A8EX-01A	Low	0.173822207216539	B cells naive
+TCGA-L5-A4OU-01A	High	0.0225212114943272	B cells naive
+TCGA-JY-A93D-01A	Low	0.0845853966359078	B cells naive
+TCGA-2H-A9GR-01A	Low	0.0742440516565265	B cells naive
+TCGA-VR-A8EY-01A	Low	0.0690325659706328	B cells naive
+TCGA-JY-A938-01A	Low	0.0	B cells naive
+TCGA-L5-A4OS-01A	Low	0.0769773214068299	B cells naive
+TCGA-VR-A8Q7-01A	Low	0.0218337255281438	B cells naive
+TCGA-L5-A8NV-01A	High	0.0877779477108218	B cells naive
+TCGA-R6-A6Y0-01B	Low	0.0036215565382585	B cells naive
+TCGA-JY-A6FD-01A	Low	0.0	B cells naive
+TCGA-L5-A8NU-01A	Low	0.0	B cells naive
+TCGA-LN-A9FO-01A	High	0.0	B cells memory
+TCGA-IG-A50L-01A	High	0.0	B cells memory
+TCGA-Z6-A8JE-01A	High	0.0	B cells memory
+TCGA-IG-A3YB-01A	Low	0.0	B cells memory
+TCGA-Z6-AAPN-01A	High	0.0	B cells memory
+TCGA-L5-A893-01A	Low	0.0	B cells memory
+TCGA-L5-A43C-01A	Low	0.0	B cells memory
+TCGA-L5-A4OO-01A	High	0.0	B cells memory
+TCGA-Z6-A8JD-01A	Low	0.0112367753487094	B cells memory
+TCGA-V5-A7RC-06A	High	0.0	B cells memory
+TCGA-V5-A7RC-01B	High	0.0	B cells memory
+TCGA-JY-A6FE-01A	Low	0.0	B cells memory
+TCGA-LN-A5U5-01A	High	0.0	B cells memory
+TCGA-IG-A8O2-01A	High	0.0	B cells memory
+TCGA-RE-A7BO-01A	High	0.0	B cells memory
+TCGA-2H-A9GK-01A	Low	0.0	B cells memory
+TCGA-L5-A8NM-01A	High	0.0	B cells memory
+TCGA-R6-A6DN-01B	High	0.0	B cells memory
+TCGA-VR-A8EW-01A	High	0.0	B cells memory
+TCGA-V5-AASX-01A	Low	0.0	B cells memory
+TCGA-IG-A6QS-01A	High	0.0	B cells memory
+TCGA-L7-A56G-01A	Low	0.0	B cells memory
+TCGA-LN-A4A9-01A	Low	0.0	B cells memory
+TCGA-LN-A7HW-01A	Low	0.0	B cells memory
+TCGA-LN-A7HY-01A	High	0.0	B cells memory
+TCGA-IG-A97I-01A	High	0.0	B cells memory
+TCGA-LN-A7HX-01A	High	0.0	B cells memory
+TCGA-LN-A9FR-01A	Low	0.0	B cells memory
+TCGA-LN-A49P-01A	High	0.0	B cells memory
+TCGA-LN-A5U6-01A	Low	0.0	B cells memory
+TCGA-VR-A8ER-01A	High	0.0	B cells memory
+TCGA-LN-A4A1-01A	Low	0.0	B cells memory
+TCGA-LN-A49X-01A	Low	0.0	B cells memory
+TCGA-LN-A49M-01A	High	0.0	B cells memory
+TCGA-R6-A8WG-01A	High	0.0	B cells memory
+TCGA-LN-A9FQ-01A	Low	0.0	B cells memory
+TCGA-LN-A7HZ-01A	High	0.0	B cells memory
+TCGA-LN-A8I1-01A	Low	0.0	B cells memory
+TCGA-L5-A8NL-01A	High	0.0	B cells memory
+TCGA-LN-A49W-01A	High	0.0	B cells memory
+TCGA-LN-A49O-01A	High	0.0	B cells memory
+TCGA-L5-A8NS-01A	High	0.0	B cells memory
+TCGA-2H-A9GI-01A	Low	0.0	B cells memory
+TCGA-IG-A97H-01A	Low	0.0	B cells memory
+TCGA-IG-A7DP-01A	Low	0.0	B cells memory
+TCGA-LN-A49U-01A	Low	0.0	B cells memory
+TCGA-V5-AASV-01A	Low	0.0	B cells memory
+TCGA-L5-A88S-01A	High	0.0	B cells memory
+TCGA-LN-A4A8-01A	Low	0.0	B cells memory
+TCGA-IC-A6RF-01A	Low	0.0345495037934974	B cells memory
+TCGA-R6-A8W5-01B	High	0.0	B cells memory
+TCGA-VR-AA7I-01A	Low	0.0	B cells memory
+TCGA-IG-A51D-01A	Low	0.0	B cells memory
+TCGA-VR-AA4G-01A	High	0.0	B cells memory
+TCGA-VR-A8EZ-01A	High	0.0	B cells memory
+TCGA-VR-A8EU-01A	High	0.0	B cells memory
+TCGA-IG-A4P3-01A	Low	0.0216537496385614	B cells memory
+TCGA-S8-A6BV-01A	High	0.0	B cells memory
+TCGA-IG-A3YC-01A	Low	0.0	B cells memory
+TCGA-IG-A3YA-01A	Low	0.0	B cells memory
+TCGA-L5-A8NQ-01A	Low	0.0	B cells memory
+TCGA-JY-A939-01A	Low	0.0	B cells memory
+TCGA-LN-A4A5-01A	Low	0.0	B cells memory
+TCGA-VR-A8EQ-01A	High	0.0	B cells memory
+TCGA-L5-A4OE-01A	High	0.0071223654152346	B cells memory
+TCGA-JY-A93E-01A	High	0.0115050193260829	B cells memory
+TCGA-LN-A5U7-01A	Low	0.0	B cells memory
+TCGA-2H-A9GF-01A	High	0.0	B cells memory
+TCGA-VR-A8EO-01A	Low	0.0	B cells memory
+TCGA-L5-A8NT-01A	High	0.0	B cells memory
+TCGA-VR-A8EX-01A	Low	0.0511858791342868	B cells memory
+TCGA-L5-A4OU-01A	High	0.0	B cells memory
+TCGA-JY-A93D-01A	Low	0.0	B cells memory
+TCGA-2H-A9GR-01A	Low	0.0	B cells memory
+TCGA-VR-A8EY-01A	Low	0.0	B cells memory
+TCGA-JY-A938-01A	Low	0.0	B cells memory
+TCGA-L5-A4OS-01A	Low	0.0	B cells memory
+TCGA-VR-A8Q7-01A	Low	0.0	B cells memory
+TCGA-L5-A8NV-01A	High	0.0150619295993321	B cells memory
+TCGA-R6-A6Y0-01B	Low	0.0	B cells memory
+TCGA-JY-A6FD-01A	Low	0.0	B cells memory
+TCGA-L5-A8NU-01A	Low	0.0231229349005129	B cells memory
+TCGA-LN-A9FO-01A	High	0.0096329911138203	Plasma cells
+TCGA-IG-A50L-01A	High	0.0460970703564583	Plasma cells
+TCGA-Z6-A8JE-01A	High	0.0637915626198238	Plasma cells
+TCGA-IG-A3YB-01A	Low	0.0	Plasma cells
+TCGA-Z6-AAPN-01A	High	0.0300360596762029	Plasma cells
+TCGA-L5-A893-01A	Low	0.0497280402676574	Plasma cells
+TCGA-L5-A43C-01A	Low	0.0408940334700037	Plasma cells
+TCGA-L5-A4OO-01A	High	0.16427130286487	Plasma cells
+TCGA-Z6-A8JD-01A	Low	0.0391300609825826	Plasma cells
+TCGA-V5-A7RC-06A	High	0.0106450001539195	Plasma cells
+TCGA-V5-A7RC-01B	High	0.0062496129670054	Plasma cells
+TCGA-JY-A6FE-01A	Low	0.0874439883970746	Plasma cells
+TCGA-LN-A5U5-01A	High	0.0380010604645092	Plasma cells
+TCGA-IG-A8O2-01A	High	0.0	Plasma cells
+TCGA-RE-A7BO-01A	High	0.0	Plasma cells
+TCGA-2H-A9GK-01A	Low	0.210840493735323	Plasma cells
+TCGA-L5-A8NM-01A	High	0.0485256919111819	Plasma cells
+TCGA-R6-A6DN-01B	High	0.0	Plasma cells
+TCGA-VR-A8EW-01A	High	0.0508998950377376	Plasma cells
+TCGA-V5-AASX-01A	Low	0.0412266240164677	Plasma cells
+TCGA-IG-A6QS-01A	High	0.0153614491071961	Plasma cells
+TCGA-L7-A56G-01A	Low	0.0777978196781145	Plasma cells
+TCGA-LN-A4A9-01A	Low	0.0	Plasma cells
+TCGA-LN-A7HW-01A	Low	0.0114248282214284	Plasma cells
+TCGA-LN-A7HY-01A	High	0.230903503606637	Plasma cells
+TCGA-IG-A97I-01A	High	0.0	Plasma cells
+TCGA-LN-A7HX-01A	High	0.0208530963321239	Plasma cells
+TCGA-LN-A9FR-01A	Low	0.0	Plasma cells
+TCGA-LN-A49P-01A	High	0.0085307073826421	Plasma cells
+TCGA-LN-A5U6-01A	Low	0.0	Plasma cells
+TCGA-VR-A8ER-01A	High	0.182884660473631	Plasma cells
+TCGA-LN-A4A1-01A	Low	0.0023870925618188	Plasma cells
+TCGA-LN-A49X-01A	Low	0.0	Plasma cells
+TCGA-LN-A49M-01A	High	0.0	Plasma cells
+TCGA-R6-A8WG-01A	High	0.0642476741678087	Plasma cells
+TCGA-LN-A9FQ-01A	Low	0.0	Plasma cells
+TCGA-LN-A7HZ-01A	High	0.0336037331256644	Plasma cells
+TCGA-LN-A8I1-01A	Low	0.0278750927769622	Plasma cells
+TCGA-L5-A8NL-01A	High	0.0	Plasma cells
+TCGA-LN-A49W-01A	High	0.0743809968214252	Plasma cells
+TCGA-LN-A49O-01A	High	0.0207699382810943	Plasma cells
+TCGA-L5-A8NS-01A	High	0.0088722470605963	Plasma cells
+TCGA-2H-A9GI-01A	Low	0.40405993893618	Plasma cells
+TCGA-IG-A97H-01A	Low	0.003893639459171	Plasma cells
+TCGA-IG-A7DP-01A	Low	0.084201980706944	Plasma cells
+TCGA-LN-A49U-01A	Low	0.0820108321286419	Plasma cells
+TCGA-V5-AASV-01A	Low	0.083808589962829	Plasma cells
+TCGA-L5-A88S-01A	High	0.0168349554993177	Plasma cells
+TCGA-LN-A4A8-01A	Low	0.0379548831076003	Plasma cells
+TCGA-IC-A6RF-01A	Low	0.0688078606968364	Plasma cells
+TCGA-R6-A8W5-01B	High	0.137657343364675	Plasma cells
+TCGA-VR-AA7I-01A	Low	0.0	Plasma cells
+TCGA-IG-A51D-01A	Low	0.0697671507847241	Plasma cells
+TCGA-VR-AA4G-01A	High	0.0327199943129918	Plasma cells
+TCGA-VR-A8EZ-01A	High	0.0774792244014372	Plasma cells
+TCGA-VR-A8EU-01A	High	0.0206026503357768	Plasma cells
+TCGA-IG-A4P3-01A	Low	0.0420680620034395	Plasma cells
+TCGA-S8-A6BV-01A	High	0.0030556672384765	Plasma cells
+TCGA-IG-A3YC-01A	Low	0.0061955688343921	Plasma cells
+TCGA-IG-A3YA-01A	Low	0.0	Plasma cells
+TCGA-L5-A8NQ-01A	Low	0.0005762649087645	Plasma cells
+TCGA-JY-A939-01A	Low	0.0904892711303202	Plasma cells
+TCGA-LN-A4A5-01A	Low	0.0	Plasma cells
+TCGA-VR-A8EQ-01A	High	0.0	Plasma cells
+TCGA-L5-A4OE-01A	High	0.0	Plasma cells
+TCGA-JY-A93E-01A	High	0.0682782817295509	Plasma cells
+TCGA-LN-A5U7-01A	Low	0.0310479324441034	Plasma cells
+TCGA-2H-A9GF-01A	High	0.0021832371569362	Plasma cells
+TCGA-VR-A8EO-01A	Low	0.0099083127977093	Plasma cells
+TCGA-L5-A8NT-01A	High	0.016509721164155	Plasma cells
+TCGA-VR-A8EX-01A	Low	0.116904396738422	Plasma cells
+TCGA-L5-A4OU-01A	High	0.0290213623902247	Plasma cells
+TCGA-JY-A93D-01A	Low	0.0516229925440504	Plasma cells
+TCGA-2H-A9GR-01A	Low	0.205579988504548	Plasma cells
+TCGA-VR-A8EY-01A	Low	0.0649777511420256	Plasma cells
+TCGA-JY-A938-01A	Low	0.18176853953857	Plasma cells
+TCGA-L5-A4OS-01A	Low	0.129079254849115	Plasma cells
+TCGA-VR-A8Q7-01A	Low	0.0298685376438272	Plasma cells
+TCGA-L5-A8NV-01A	High	0.0809614340997628	Plasma cells
+TCGA-R6-A6Y0-01B	Low	0.0120592593861521	Plasma cells
+TCGA-JY-A6FD-01A	Low	0.0592978451891335	Plasma cells
+TCGA-L5-A8NU-01A	Low	0.293620226479944	Plasma cells
+TCGA-LN-A9FO-01A	High	0.275764335266324	T cells CD8
+TCGA-IG-A50L-01A	High	0.0245720010902801	T cells CD8
+TCGA-Z6-A8JE-01A	High	0.0241440524263186	T cells CD8
+TCGA-IG-A3YB-01A	Low	0.201934947320584	T cells CD8
+TCGA-Z6-AAPN-01A	High	0.140550008364256	T cells CD8
+TCGA-L5-A893-01A	Low	0.100344169874549	T cells CD8
+TCGA-L5-A43C-01A	Low	0.0069723509692348	T cells CD8
+TCGA-L5-A4OO-01A	High	0.123448241527674	T cells CD8
+TCGA-Z6-A8JD-01A	Low	0.0246583797891335	T cells CD8
+TCGA-V5-A7RC-06A	High	0.0972630573499136	T cells CD8
+TCGA-V5-A7RC-01B	High	0.0	T cells CD8
+TCGA-JY-A6FE-01A	Low	0.077713272860065	T cells CD8
+TCGA-LN-A5U5-01A	High	0.0301861066042371	T cells CD8
+TCGA-IG-A8O2-01A	High	0.355349640601505	T cells CD8
+TCGA-RE-A7BO-01A	High	0.0	T cells CD8
+TCGA-2H-A9GK-01A	Low	0.0144681211200842	T cells CD8
+TCGA-L5-A8NM-01A	High	0.168687759249186	T cells CD8
+TCGA-R6-A6DN-01B	High	0.0	T cells CD8
+TCGA-VR-A8EW-01A	High	0.015882417073916	T cells CD8
+TCGA-V5-AASX-01A	Low	0.199952518671984	T cells CD8
+TCGA-IG-A6QS-01A	High	0.115398941415237	T cells CD8
+TCGA-L7-A56G-01A	Low	0.0	T cells CD8
+TCGA-LN-A4A9-01A	Low	0.0771109220296096	T cells CD8
+TCGA-LN-A7HW-01A	Low	0.0	T cells CD8
+TCGA-LN-A7HY-01A	High	0.0	T cells CD8
+TCGA-IG-A97I-01A	High	0.0010202774213397	T cells CD8
+TCGA-LN-A7HX-01A	High	0.0364936560410043	T cells CD8
+TCGA-LN-A9FR-01A	Low	0.0294763910184416	T cells CD8
+TCGA-LN-A49P-01A	High	0.105463882370583	T cells CD8
+TCGA-LN-A5U6-01A	Low	0.0327756877042199	T cells CD8
+TCGA-VR-A8ER-01A	High	0.0135570612073791	T cells CD8
+TCGA-LN-A4A1-01A	Low	0.0	T cells CD8
+TCGA-LN-A49X-01A	Low	0.0504023597057769	T cells CD8
+TCGA-LN-A49M-01A	High	0.0	T cells CD8
+TCGA-R6-A8WG-01A	High	0.0230122848570193	T cells CD8
+TCGA-LN-A9FQ-01A	Low	0.0097483736396817	T cells CD8
+TCGA-LN-A7HZ-01A	High	0.328095615293847	T cells CD8
+TCGA-LN-A8I1-01A	Low	0.279965318404163	T cells CD8
+TCGA-L5-A8NL-01A	High	0.0022991439361399	T cells CD8
+TCGA-LN-A49W-01A	High	0.0342707432971828	T cells CD8
+TCGA-LN-A49O-01A	High	0.0291610284692942	T cells CD8
+TCGA-L5-A8NS-01A	High	0.0713613199627014	T cells CD8
+TCGA-2H-A9GI-01A	Low	0.0156888349944266	T cells CD8
+TCGA-IG-A97H-01A	Low	0.0082896783439116	T cells CD8
+TCGA-IG-A7DP-01A	Low	0.282568551134042	T cells CD8
+TCGA-LN-A49U-01A	Low	0.0139057687301907	T cells CD8
+TCGA-V5-AASV-01A	Low	0.0562639159784309	T cells CD8
+TCGA-L5-A88S-01A	High	0.0195189590008836	T cells CD8
+TCGA-LN-A4A8-01A	Low	0.0574507378859149	T cells CD8
+TCGA-IC-A6RF-01A	Low	0.0335900943570488	T cells CD8
+TCGA-R6-A8W5-01B	High	0.0267067807875162	T cells CD8
+TCGA-VR-AA7I-01A	Low	0.229270794978118	T cells CD8
+TCGA-IG-A51D-01A	Low	0.0525167055253048	T cells CD8
+TCGA-VR-AA4G-01A	High	0.052363267770114	T cells CD8
+TCGA-VR-A8EZ-01A	High	0.122079921278042	T cells CD8
+TCGA-VR-A8EU-01A	High	0.0	T cells CD8
+TCGA-IG-A4P3-01A	Low	0.249797031463408	T cells CD8
+TCGA-S8-A6BV-01A	High	0.0	T cells CD8
+TCGA-IG-A3YC-01A	Low	0.182596045715732	T cells CD8
+TCGA-IG-A3YA-01A	Low	0.0256169803217461	T cells CD8
+TCGA-L5-A8NQ-01A	Low	0.0636808832423618	T cells CD8
+TCGA-JY-A939-01A	Low	0.134103886635431	T cells CD8
+TCGA-LN-A4A5-01A	Low	0.0318760227859686	T cells CD8
+TCGA-VR-A8EQ-01A	High	0.0421973750755141	T cells CD8
+TCGA-L5-A4OE-01A	High	0.277012265803359	T cells CD8
+TCGA-JY-A93E-01A	High	0.0852987667066317	T cells CD8
+TCGA-LN-A5U7-01A	Low	0.0380174823161843	T cells CD8
+TCGA-2H-A9GF-01A	High	0.0	T cells CD8
+TCGA-VR-A8EO-01A	Low	0.0405443693882817	T cells CD8
+TCGA-L5-A8NT-01A	High	0.0302921050320032	T cells CD8
+TCGA-VR-A8EX-01A	Low	0.0947986089404909	T cells CD8
+TCGA-L5-A4OU-01A	High	0.119304949105185	T cells CD8
+TCGA-JY-A93D-01A	Low	0.0266876693666319	T cells CD8
+TCGA-2H-A9GR-01A	Low	0.0617269842223006	T cells CD8
+TCGA-VR-A8EY-01A	Low	0.0341232814375935	T cells CD8
+TCGA-JY-A938-01A	Low	0.142951935454777	T cells CD8
+TCGA-L5-A4OS-01A	Low	0.0	T cells CD8
+TCGA-VR-A8Q7-01A	Low	0.17839723275283	T cells CD8
+TCGA-L5-A8NV-01A	High	0.0844421013006986	T cells CD8
+TCGA-R6-A6Y0-01B	Low	0.0058281356526977	T cells CD8
+TCGA-JY-A6FD-01A	Low	0.137218918015094	T cells CD8
+TCGA-L5-A8NU-01A	Low	0.0590762256066071	T cells CD8
+TCGA-LN-A9FO-01A	High	0.0	T cells CD4 naive
+TCGA-IG-A50L-01A	High	0.0	T cells CD4 naive
+TCGA-Z6-A8JE-01A	High	0.0	T cells CD4 naive
+TCGA-IG-A3YB-01A	Low	0.0	T cells CD4 naive
+TCGA-Z6-AAPN-01A	High	0.0	T cells CD4 naive
+TCGA-L5-A893-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A43C-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A4OO-01A	High	0.0	T cells CD4 naive
+TCGA-Z6-A8JD-01A	Low	0.0	T cells CD4 naive
+TCGA-V5-A7RC-06A	High	0.0	T cells CD4 naive
+TCGA-V5-A7RC-01B	High	0.0	T cells CD4 naive
+TCGA-JY-A6FE-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A5U5-01A	High	0.0	T cells CD4 naive
+TCGA-IG-A8O2-01A	High	0.0	T cells CD4 naive
+TCGA-RE-A7BO-01A	High	0.0	T cells CD4 naive
+TCGA-2H-A9GK-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A8NM-01A	High	0.0	T cells CD4 naive
+TCGA-R6-A6DN-01B	High	0.0	T cells CD4 naive
+TCGA-VR-A8EW-01A	High	0.0	T cells CD4 naive
+TCGA-V5-AASX-01A	Low	0.0	T cells CD4 naive
+TCGA-IG-A6QS-01A	High	0.0	T cells CD4 naive
+TCGA-L7-A56G-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A4A9-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A7HW-01A	Low	0.0716879102418244	T cells CD4 naive
+TCGA-LN-A7HY-01A	High	0.0	T cells CD4 naive
+TCGA-IG-A97I-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A7HX-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A9FR-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A49P-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A5U6-01A	Low	0.0	T cells CD4 naive
+TCGA-VR-A8ER-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A4A1-01A	Low	0.0200819390230503	T cells CD4 naive
+TCGA-LN-A49X-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A49M-01A	High	0.0322766903827194	T cells CD4 naive
+TCGA-R6-A8WG-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A9FQ-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A7HZ-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A8I1-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A8NL-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A49W-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A49O-01A	High	0.0	T cells CD4 naive
+TCGA-L5-A8NS-01A	High	0.0	T cells CD4 naive
+TCGA-2H-A9GI-01A	Low	0.0	T cells CD4 naive
+TCGA-IG-A97H-01A	Low	0.0	T cells CD4 naive
+TCGA-IG-A7DP-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A49U-01A	Low	0.0	T cells CD4 naive
+TCGA-V5-AASV-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A88S-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A4A8-01A	Low	0.0	T cells CD4 naive
+TCGA-IC-A6RF-01A	Low	0.0	T cells CD4 naive
+TCGA-R6-A8W5-01B	High	0.0	T cells CD4 naive
+TCGA-VR-AA7I-01A	Low	0.0	T cells CD4 naive
+TCGA-IG-A51D-01A	Low	0.0	T cells CD4 naive
+TCGA-VR-AA4G-01A	High	0.0	T cells CD4 naive
+TCGA-VR-A8EZ-01A	High	0.0	T cells CD4 naive
+TCGA-VR-A8EU-01A	High	0.0	T cells CD4 naive
+TCGA-IG-A4P3-01A	Low	0.0	T cells CD4 naive
+TCGA-S8-A6BV-01A	High	0.0	T cells CD4 naive
+TCGA-IG-A3YC-01A	Low	0.0	T cells CD4 naive
+TCGA-IG-A3YA-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A8NQ-01A	Low	0.0	T cells CD4 naive
+TCGA-JY-A939-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A4A5-01A	Low	0.0	T cells CD4 naive
+TCGA-VR-A8EQ-01A	High	0.0	T cells CD4 naive
+TCGA-L5-A4OE-01A	High	0.0	T cells CD4 naive
+TCGA-JY-A93E-01A	High	0.0	T cells CD4 naive
+TCGA-LN-A5U7-01A	Low	0.0	T cells CD4 naive
+TCGA-2H-A9GF-01A	High	0.0	T cells CD4 naive
+TCGA-VR-A8EO-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A8NT-01A	High	0.0	T cells CD4 naive
+TCGA-VR-A8EX-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A4OU-01A	High	0.0	T cells CD4 naive
+TCGA-JY-A93D-01A	Low	0.0	T cells CD4 naive
+TCGA-2H-A9GR-01A	Low	0.0	T cells CD4 naive
+TCGA-VR-A8EY-01A	Low	0.0	T cells CD4 naive
+TCGA-JY-A938-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A4OS-01A	Low	0.0	T cells CD4 naive
+TCGA-VR-A8Q7-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A8NV-01A	High	0.0	T cells CD4 naive
+TCGA-R6-A6Y0-01B	Low	0.0	T cells CD4 naive
+TCGA-JY-A6FD-01A	Low	0.0	T cells CD4 naive
+TCGA-L5-A8NU-01A	Low	0.0	T cells CD4 naive
+TCGA-LN-A9FO-01A	High	0.0	T cells CD4 memory resting
+TCGA-IG-A50L-01A	High	0.190320985217792	T cells CD4 memory resting
+TCGA-Z6-A8JE-01A	High	0.112351310450259	T cells CD4 memory resting
+TCGA-IG-A3YB-01A	Low	0.0	T cells CD4 memory resting
+TCGA-Z6-AAPN-01A	High	0.0749844065587107	T cells CD4 memory resting
+TCGA-L5-A893-01A	Low	0.161950315307266	T cells CD4 memory resting
+TCGA-L5-A43C-01A	Low	0.150465477480336	T cells CD4 memory resting
+TCGA-L5-A4OO-01A	High	0.22835468144317	T cells CD4 memory resting
+TCGA-Z6-A8JD-01A	Low	0.271874041892871	T cells CD4 memory resting
+TCGA-V5-A7RC-06A	High	0.243666394672713	T cells CD4 memory resting
+TCGA-V5-A7RC-01B	High	0.421446288793672	T cells CD4 memory resting
+TCGA-JY-A6FE-01A	Low	0.055716911540487	T cells CD4 memory resting
+TCGA-LN-A5U5-01A	High	0.0976548539324806	T cells CD4 memory resting
+TCGA-IG-A8O2-01A	High	0.0	T cells CD4 memory resting
+TCGA-RE-A7BO-01A	High	0.129669137364932	T cells CD4 memory resting
+TCGA-2H-A9GK-01A	Low	0.245207758082684	T cells CD4 memory resting
+TCGA-L5-A8NM-01A	High	0.121959639296661	T cells CD4 memory resting
+TCGA-R6-A6DN-01B	High	0.208628375964744	T cells CD4 memory resting
+TCGA-VR-A8EW-01A	High	0.0587933081741942	T cells CD4 memory resting
+TCGA-V5-AASX-01A	Low	0.0244676331404688	T cells CD4 memory resting
+TCGA-IG-A6QS-01A	High	0.16860188374493	T cells CD4 memory resting
+TCGA-L7-A56G-01A	Low	0.287651109493628	T cells CD4 memory resting
+TCGA-LN-A4A9-01A	Low	0.16136919428241	T cells CD4 memory resting
+TCGA-LN-A7HW-01A	Low	0.392210607865268	T cells CD4 memory resting
+TCGA-LN-A7HY-01A	High	0.163476577494644	T cells CD4 memory resting
+TCGA-IG-A97I-01A	High	0.112449991419509	T cells CD4 memory resting
+TCGA-LN-A7HX-01A	High	0.199142340906377	T cells CD4 memory resting
+TCGA-LN-A9FR-01A	Low	0.166734211450733	T cells CD4 memory resting
+TCGA-LN-A49P-01A	High	0.0670763068711496	T cells CD4 memory resting
+TCGA-LN-A5U6-01A	Low	0.0726932383199597	T cells CD4 memory resting
+TCGA-VR-A8ER-01A	High	0.139362624417228	T cells CD4 memory resting
+TCGA-LN-A4A1-01A	Low	0.102465147829888	T cells CD4 memory resting
+TCGA-LN-A49X-01A	Low	0.140465515196561	T cells CD4 memory resting
+TCGA-LN-A49M-01A	High	0.0531604683974913	T cells CD4 memory resting
+TCGA-R6-A8WG-01A	High	0.113346414202078	T cells CD4 memory resting
+TCGA-LN-A9FQ-01A	Low	0.0615247955048873	T cells CD4 memory resting
+TCGA-LN-A7HZ-01A	High	0.0	T cells CD4 memory resting
+TCGA-LN-A8I1-01A	Low	0.0	T cells CD4 memory resting
+TCGA-L5-A8NL-01A	High	0.190685483851276	T cells CD4 memory resting
+TCGA-LN-A49W-01A	High	0.169593267179787	T cells CD4 memory resting
+TCGA-LN-A49O-01A	High	0.251532487739373	T cells CD4 memory resting
+TCGA-L5-A8NS-01A	High	0.345876098036819	T cells CD4 memory resting
+TCGA-2H-A9GI-01A	Low	0.290577458071233	T cells CD4 memory resting
+TCGA-IG-A97H-01A	Low	0.177206165013244	T cells CD4 memory resting
+TCGA-IG-A7DP-01A	Low	0.0626960986690608	T cells CD4 memory resting
+TCGA-LN-A49U-01A	Low	0.200877887498194	T cells CD4 memory resting
+TCGA-V5-AASV-01A	Low	0.0737801561753837	T cells CD4 memory resting
+TCGA-L5-A88S-01A	High	0.170848279925339	T cells CD4 memory resting
+TCGA-LN-A4A8-01A	Low	0.18852952892023	T cells CD4 memory resting
+TCGA-IC-A6RF-01A	Low	0.113174781734839	T cells CD4 memory resting
+TCGA-R6-A8W5-01B	High	0.120807387162672	T cells CD4 memory resting
+TCGA-VR-AA7I-01A	Low	0.0232614158036643	T cells CD4 memory resting
+TCGA-IG-A51D-01A	Low	0.0549094020513006	T cells CD4 memory resting
+TCGA-VR-AA4G-01A	High	0.231693716213087	T cells CD4 memory resting
+TCGA-VR-A8EZ-01A	High	0.0969646971455753	T cells CD4 memory resting
+TCGA-VR-A8EU-01A	High	0.0306711120596694	T cells CD4 memory resting
+TCGA-IG-A4P3-01A	Low	0.0308517400177333	T cells CD4 memory resting
+TCGA-S8-A6BV-01A	High	0.24286467058561	T cells CD4 memory resting
+TCGA-IG-A3YC-01A	Low	0.0	T cells CD4 memory resting
+TCGA-IG-A3YA-01A	Low	0.149250785953515	T cells CD4 memory resting
+TCGA-L5-A8NQ-01A	Low	0.166267825623306	T cells CD4 memory resting
+TCGA-JY-A939-01A	Low	0.250468812590002	T cells CD4 memory resting
+TCGA-LN-A4A5-01A	Low	0.203565495311157	T cells CD4 memory resting
+TCGA-VR-A8EQ-01A	High	0.205428382972656	T cells CD4 memory resting
+TCGA-L5-A4OE-01A	High	0.0522143438776075	T cells CD4 memory resting
+TCGA-JY-A93E-01A	High	0.225167720617262	T cells CD4 memory resting
+TCGA-LN-A5U7-01A	Low	0.190466043644803	T cells CD4 memory resting
+TCGA-2H-A9GF-01A	High	0.121133072425165	T cells CD4 memory resting
+TCGA-VR-A8EO-01A	Low	0.270140892195299	T cells CD4 memory resting
+TCGA-L5-A8NT-01A	High	0.219107079342265	T cells CD4 memory resting
+TCGA-VR-A8EX-01A	Low	0.0427067321411253	T cells CD4 memory resting
+TCGA-L5-A4OU-01A	High	0.0225945679541145	T cells CD4 memory resting
+TCGA-JY-A93D-01A	Low	0.292141224437116	T cells CD4 memory resting
+TCGA-2H-A9GR-01A	Low	0.177237040004992	T cells CD4 memory resting
+TCGA-VR-A8EY-01A	Low	0.0820060882280126	T cells CD4 memory resting
+TCGA-JY-A938-01A	Low	0.0578803574999806	T cells CD4 memory resting
+TCGA-L5-A4OS-01A	Low	0.158027154300587	T cells CD4 memory resting
+TCGA-VR-A8Q7-01A	Low	0.137818764874303	T cells CD4 memory resting
+TCGA-L5-A8NV-01A	High	0.194956107465815	T cells CD4 memory resting
+TCGA-R6-A6Y0-01B	Low	0.134963620251326	T cells CD4 memory resting
+TCGA-JY-A6FD-01A	Low	0.076705539221322	T cells CD4 memory resting
+TCGA-L5-A8NU-01A	Low	0.120779079323586	T cells CD4 memory resting
+TCGA-LN-A9FO-01A	High	0.195321505696094	T cells CD4 memory activated
+TCGA-IG-A50L-01A	High	0.050213812630372	T cells CD4 memory activated
+TCGA-Z6-A8JE-01A	High	0.0	T cells CD4 memory activated
+TCGA-IG-A3YB-01A	Low	0.0537538410615376	T cells CD4 memory activated
+TCGA-Z6-AAPN-01A	High	0.0804641967005765	T cells CD4 memory activated
+TCGA-L5-A893-01A	Low	0.0012378626595279	T cells CD4 memory activated
+TCGA-L5-A43C-01A	Low	0.0	T cells CD4 memory activated
+TCGA-L5-A4OO-01A	High	0.102862556146865	T cells CD4 memory activated
+TCGA-Z6-A8JD-01A	Low	0.0220385719069631	T cells CD4 memory activated
+TCGA-V5-A7RC-06A	High	0.0	T cells CD4 memory activated
+TCGA-V5-A7RC-01B	High	0.0	T cells CD4 memory activated
+TCGA-JY-A6FE-01A	Low	0.002014264872549	T cells CD4 memory activated
+TCGA-LN-A5U5-01A	High	0.0801938201356104	T cells CD4 memory activated
+TCGA-IG-A8O2-01A	High	0.0673644462781945	T cells CD4 memory activated
+TCGA-RE-A7BO-01A	High	0.0	T cells CD4 memory activated
+TCGA-2H-A9GK-01A	Low	0.0621525056651372	T cells CD4 memory activated
+TCGA-L5-A8NM-01A	High	0.212444009288717	T cells CD4 memory activated
+TCGA-R6-A6DN-01B	High	0.0305111935647029	T cells CD4 memory activated
+TCGA-VR-A8EW-01A	High	0.0174344871993967	T cells CD4 memory activated
+TCGA-V5-AASX-01A	Low	0.121279971042382	T cells CD4 memory activated
+TCGA-IG-A6QS-01A	High	0.059963889926552	T cells CD4 memory activated
+TCGA-L7-A56G-01A	Low	0.0	T cells CD4 memory activated
+TCGA-LN-A4A9-01A	Low	0.0539002842260361	T cells CD4 memory activated
+TCGA-LN-A7HW-01A	Low	0.0	T cells CD4 memory activated
+TCGA-LN-A7HY-01A	High	0.0	T cells CD4 memory activated
+TCGA-IG-A97I-01A	High	0.0	T cells CD4 memory activated
+TCGA-LN-A7HX-01A	High	0.0368954692027009	T cells CD4 memory activated
+TCGA-LN-A9FR-01A	Low	0.0361809491604263	T cells CD4 memory activated
+TCGA-LN-A49P-01A	High	0.043487658289801	T cells CD4 memory activated
+TCGA-LN-A5U6-01A	Low	0.0695825061493336	T cells CD4 memory activated
+TCGA-VR-A8ER-01A	High	0.00594501076935	T cells CD4 memory activated
+TCGA-LN-A4A1-01A	Low	0.0	T cells CD4 memory activated
+TCGA-LN-A49X-01A	Low	0.0	T cells CD4 memory activated
+TCGA-LN-A49M-01A	High	0.0048999726511585	T cells CD4 memory activated
+TCGA-R6-A8WG-01A	High	0.002524833162361	T cells CD4 memory activated
+TCGA-LN-A9FQ-01A	Low	0.0374604825097312	T cells CD4 memory activated
+TCGA-LN-A7HZ-01A	High	0.125353507858993	T cells CD4 memory activated
+TCGA-LN-A8I1-01A	Low	0.179355440073028	T cells CD4 memory activated
+TCGA-L5-A8NL-01A	High	0.0106103912363705	T cells CD4 memory activated
+TCGA-LN-A49W-01A	High	0.0645823253686512	T cells CD4 memory activated
+TCGA-LN-A49O-01A	High	0.0040751918613101	T cells CD4 memory activated
+TCGA-L5-A8NS-01A	High	0.0729154567042814	T cells CD4 memory activated
+TCGA-2H-A9GI-01A	Low	0.0241815183753645	T cells CD4 memory activated
+TCGA-IG-A97H-01A	Low	0.0	T cells CD4 memory activated
+TCGA-IG-A7DP-01A	Low	0.0500516848291438	T cells CD4 memory activated
+TCGA-LN-A49U-01A	Low	0.0777270059147034	T cells CD4 memory activated
+TCGA-V5-AASV-01A	Low	0.119772600144325	T cells CD4 memory activated
+TCGA-L5-A88S-01A	High	0.0	T cells CD4 memory activated
+TCGA-LN-A4A8-01A	Low	0.0715177595370133	T cells CD4 memory activated
+TCGA-IC-A6RF-01A	Low	0.0901443350194845	T cells CD4 memory activated
+TCGA-R6-A8W5-01B	High	0.0009831165649615	T cells CD4 memory activated
+TCGA-VR-AA7I-01A	Low	0.158620030866603	T cells CD4 memory activated
+TCGA-IG-A51D-01A	Low	0.0551397719214785	T cells CD4 memory activated
+TCGA-VR-AA4G-01A	High	0.0946705731732625	T cells CD4 memory activated
+TCGA-VR-A8EZ-01A	High	0.0497248282550652	T cells CD4 memory activated
+TCGA-VR-A8EU-01A	High	0.103569169841177	T cells CD4 memory activated
+TCGA-IG-A4P3-01A	Low	0.0886182185992808	T cells CD4 memory activated
+TCGA-S8-A6BV-01A	High	0.0	T cells CD4 memory activated
+TCGA-IG-A3YC-01A	Low	0.0652512050200585	T cells CD4 memory activated
+TCGA-IG-A3YA-01A	Low	0.0773676229399599	T cells CD4 memory activated
+TCGA-L5-A8NQ-01A	Low	0.0	T cells CD4 memory activated
+TCGA-JY-A939-01A	Low	0.0434997133415563	T cells CD4 memory activated
+TCGA-LN-A4A5-01A	Low	0.0	T cells CD4 memory activated
+TCGA-VR-A8EQ-01A	High	0.0	T cells CD4 memory activated
+TCGA-L5-A4OE-01A	High	0.182223039023822	T cells CD4 memory activated
+TCGA-JY-A93E-01A	High	0.0582314043293758	T cells CD4 memory activated
+TCGA-LN-A5U7-01A	Low	0.094407432914565	T cells CD4 memory activated
+TCGA-2H-A9GF-01A	High	0.0	T cells CD4 memory activated
+TCGA-VR-A8EO-01A	Low	0.0	T cells CD4 memory activated
+TCGA-L5-A8NT-01A	High	0.0037311410182723	T cells CD4 memory activated
+TCGA-VR-A8EX-01A	Low	0.0	T cells CD4 memory activated
+TCGA-L5-A4OU-01A	High	0.181786100107765	T cells CD4 memory activated
+TCGA-JY-A93D-01A	Low	0.0128634139753162	T cells CD4 memory activated
+TCGA-2H-A9GR-01A	Low	0.0	T cells CD4 memory activated
+TCGA-VR-A8EY-01A	Low	0.0222996355508574	T cells CD4 memory activated
+TCGA-JY-A938-01A	Low	0.0780487563203184	T cells CD4 memory activated
+TCGA-L5-A4OS-01A	Low	0.0128914375579699	T cells CD4 memory activated
+TCGA-VR-A8Q7-01A	Low	0.0941874967398363	T cells CD4 memory activated
+TCGA-L5-A8NV-01A	High	0.0	T cells CD4 memory activated
+TCGA-R6-A6Y0-01B	Low	0.015858035114311	T cells CD4 memory activated
+TCGA-JY-A6FD-01A	Low	0.0438139093318177	T cells CD4 memory activated
+TCGA-L5-A8NU-01A	Low	0.0515515760958678	T cells CD4 memory activated
+TCGA-LN-A9FO-01A	High	0.0275748690475625	T cells follicular helper
+TCGA-IG-A50L-01A	High	0.0	T cells follicular helper
+TCGA-Z6-A8JE-01A	High	0.0	T cells follicular helper
+TCGA-IG-A3YB-01A	Low	0.0245994711343912	T cells follicular helper
+TCGA-Z6-AAPN-01A	High	0.0163133336695362	T cells follicular helper
+TCGA-L5-A893-01A	Low	0.0016599709049432	T cells follicular helper
+TCGA-L5-A43C-01A	Low	0.0	T cells follicular helper
+TCGA-L5-A4OO-01A	High	0.0013851295367738	T cells follicular helper
+TCGA-Z6-A8JD-01A	Low	0.0	T cells follicular helper
+TCGA-V5-A7RC-06A	High	0.0	T cells follicular helper
+TCGA-V5-A7RC-01B	High	0.0051524269669117	T cells follicular helper
+TCGA-JY-A6FE-01A	Low	0.0085634792858536	T cells follicular helper
+TCGA-LN-A5U5-01A	High	0.0341215356410459	T cells follicular helper
+TCGA-IG-A8O2-01A	High	0.130686694481389	T cells follicular helper
+TCGA-RE-A7BO-01A	High	0.0	T cells follicular helper
+TCGA-2H-A9GK-01A	Low	0.0	T cells follicular helper
+TCGA-L5-A8NM-01A	High	0.0111622456973802	T cells follicular helper
+TCGA-R6-A6DN-01B	High	0.0967923807502711	T cells follicular helper
+TCGA-VR-A8EW-01A	High	0.0503079952418286	T cells follicular helper
+TCGA-V5-AASX-01A	Low	0.0612408978131747	T cells follicular helper
+TCGA-IG-A6QS-01A	High	0.0	T cells follicular helper
+TCGA-L7-A56G-01A	Low	0.0736166807992018	T cells follicular helper
+TCGA-LN-A4A9-01A	Low	0.0438912374271139	T cells follicular helper
+TCGA-LN-A7HW-01A	Low	0.0	T cells follicular helper
+TCGA-LN-A7HY-01A	High	0.0	T cells follicular helper
+TCGA-IG-A97I-01A	High	0.0495620159158159	T cells follicular helper
+TCGA-LN-A7HX-01A	High	0.0	T cells follicular helper
+TCGA-LN-A9FR-01A	Low	0.0	T cells follicular helper
+TCGA-LN-A49P-01A	High	0.0433636762173185	T cells follicular helper
+TCGA-LN-A5U6-01A	Low	0.0370872722326975	T cells follicular helper
+TCGA-VR-A8ER-01A	High	0.0	T cells follicular helper
+TCGA-LN-A4A1-01A	Low	0.0	T cells follicular helper
+TCGA-LN-A49X-01A	Low	0.0236558651752618	T cells follicular helper
+TCGA-LN-A49M-01A	High	0.0006298368920504	T cells follicular helper
+TCGA-R6-A8WG-01A	High	0.0611396053665771	T cells follicular helper
+TCGA-LN-A9FQ-01A	Low	0.0115314614498912	T cells follicular helper
+TCGA-LN-A7HZ-01A	High	0.0438175582658203	T cells follicular helper
+TCGA-LN-A8I1-01A	Low	0.120522479453172	T cells follicular helper
+TCGA-L5-A8NL-01A	High	0.0115232228002683	T cells follicular helper
+TCGA-LN-A49W-01A	High	0.0201166425239827	T cells follicular helper
+TCGA-LN-A49O-01A	High	0.0	T cells follicular helper
+TCGA-L5-A8NS-01A	High	0.0	T cells follicular helper
+TCGA-2H-A9GI-01A	Low	0.0	T cells follicular helper
+TCGA-IG-A97H-01A	Low	0.0	T cells follicular helper
+TCGA-IG-A7DP-01A	Low	0.0244337571557035	T cells follicular helper
+TCGA-LN-A49U-01A	Low	0.0	T cells follicular helper
+TCGA-V5-AASV-01A	Low	0.0587264154567853	T cells follicular helper
+TCGA-L5-A88S-01A	High	0.0	T cells follicular helper
+TCGA-LN-A4A8-01A	Low	0.0436887041069342	T cells follicular helper
+TCGA-IC-A6RF-01A	Low	0.0510209702377918	T cells follicular helper
+TCGA-R6-A8W5-01B	High	0.0476162390733953	T cells follicular helper
+TCGA-VR-AA7I-01A	Low	0.0568304743831307	T cells follicular helper
+TCGA-IG-A51D-01A	Low	0.03393727504547	T cells follicular helper
+TCGA-VR-AA4G-01A	High	0.020505712918732	T cells follicular helper
+TCGA-VR-A8EZ-01A	High	0.0387128945570708	T cells follicular helper
+TCGA-VR-A8EU-01A	High	0.0984830968884505	T cells follicular helper
+TCGA-IG-A4P3-01A	Low	0.0655389715731545	T cells follicular helper
+TCGA-S8-A6BV-01A	High	0.0	T cells follicular helper
+TCGA-IG-A3YC-01A	Low	0.0431544729100815	T cells follicular helper
+TCGA-IG-A3YA-01A	Low	0.0	T cells follicular helper
+TCGA-L5-A8NQ-01A	Low	0.009952733215701	T cells follicular helper
+TCGA-JY-A939-01A	Low	0.0	T cells follicular helper
+TCGA-LN-A4A5-01A	Low	0.0	T cells follicular helper
+TCGA-VR-A8EQ-01A	High	0.0163734153612397	T cells follicular helper
+TCGA-L5-A4OE-01A	High	0.032400160835305	T cells follicular helper
+TCGA-JY-A93E-01A	High	0.0	T cells follicular helper
+TCGA-LN-A5U7-01A	Low	0.0194510438880835	T cells follicular helper
+TCGA-2H-A9GF-01A	High	0.0268843072479604	T cells follicular helper
+TCGA-VR-A8EO-01A	Low	0.0632471423323585	T cells follicular helper
+TCGA-L5-A8NT-01A	High	0.0198223087266173	T cells follicular helper
+TCGA-VR-A8EX-01A	Low	0.102609339472167	T cells follicular helper
+TCGA-L5-A4OU-01A	High	0.0100515725346744	T cells follicular helper
+TCGA-JY-A93D-01A	Low	0.0	T cells follicular helper
+TCGA-2H-A9GR-01A	Low	0.0230561638159801	T cells follicular helper
+TCGA-VR-A8EY-01A	Low	0.0157399362595046	T cells follicular helper
+TCGA-JY-A938-01A	Low	0.0229133410748146	T cells follicular helper
+TCGA-L5-A4OS-01A	Low	0.0105775350760189	T cells follicular helper
+TCGA-VR-A8Q7-01A	Low	0.0061959185284796	T cells follicular helper
+TCGA-L5-A8NV-01A	High	0.0	T cells follicular helper
+TCGA-R6-A6Y0-01B	Low	0.0147318819169866	T cells follicular helper
+TCGA-JY-A6FD-01A	Low	0.0	T cells follicular helper
+TCGA-L5-A8NU-01A	Low	0.0338507248611962	T cells follicular helper
+TCGA-LN-A9FO-01A	High	0.0630438561657775	T cells regulatory (Tregs)
+TCGA-IG-A50L-01A	High	0.0	T cells regulatory (Tregs)
+TCGA-Z6-A8JE-01A	High	0.0309285085539558	T cells regulatory (Tregs)
+TCGA-IG-A3YB-01A	Low	0.14165800054108	T cells regulatory (Tregs)
+TCGA-Z6-AAPN-01A	High	0.0181774859815377	T cells regulatory (Tregs)
+TCGA-L5-A893-01A	Low	0.130345657120358	T cells regulatory (Tregs)
+TCGA-L5-A43C-01A	Low	0.0292935585327472	T cells regulatory (Tregs)
+TCGA-L5-A4OO-01A	High	0.0153890418447722	T cells regulatory (Tregs)
+TCGA-Z6-A8JD-01A	Low	0.0	T cells regulatory (Tregs)
+TCGA-V5-A7RC-06A	High	0.0	T cells regulatory (Tregs)
+TCGA-V5-A7RC-01B	High	0.0	T cells regulatory (Tregs)
+TCGA-JY-A6FE-01A	Low	0.0137512534210571	T cells regulatory (Tregs)
+TCGA-LN-A5U5-01A	High	0.0061914630591852	T cells regulatory (Tregs)
+TCGA-IG-A8O2-01A	High	0.0638095985969106	T cells regulatory (Tregs)
+TCGA-RE-A7BO-01A	High	0.0525145059468045	T cells regulatory (Tregs)
+TCGA-2H-A9GK-01A	Low	0.080372322629728	T cells regulatory (Tregs)
+TCGA-L5-A8NM-01A	High	0.0453991446367816	T cells regulatory (Tregs)
+TCGA-R6-A6DN-01B	High	0.0088214655012376	T cells regulatory (Tregs)
+TCGA-VR-A8EW-01A	High	0.0220430269155283	T cells regulatory (Tregs)
+TCGA-V5-AASX-01A	Low	0.114156410876519	T cells regulatory (Tregs)
+TCGA-IG-A6QS-01A	High	0.0	T cells regulatory (Tregs)
+TCGA-L7-A56G-01A	Low	0.0055398663499158	T cells regulatory (Tregs)
+TCGA-LN-A4A9-01A	Low	0.0378957207409446	T cells regulatory (Tregs)
+TCGA-LN-A7HW-01A	Low	0.0	T cells regulatory (Tregs)
+TCGA-LN-A7HY-01A	High	0.0069206811077053	T cells regulatory (Tregs)
+TCGA-IG-A97I-01A	High	0.0	T cells regulatory (Tregs)
+TCGA-LN-A7HX-01A	High	0.0026176607720036	T cells regulatory (Tregs)
+TCGA-LN-A9FR-01A	Low	0.0198465068953271	T cells regulatory (Tregs)
+TCGA-LN-A49P-01A	High	0.0459082086255022	T cells regulatory (Tregs)
+TCGA-LN-A5U6-01A	Low	0.0484740581165053	T cells regulatory (Tregs)
+TCGA-VR-A8ER-01A	High	0.0289817860908468	T cells regulatory (Tregs)
+TCGA-LN-A4A1-01A	Low	0.0091739152067168	T cells regulatory (Tregs)
+TCGA-LN-A49X-01A	Low	0.0321560974815865	T cells regulatory (Tregs)
+TCGA-LN-A49M-01A	High	0.0	T cells regulatory (Tregs)
+TCGA-R6-A8WG-01A	High	0.114301792252214	T cells regulatory (Tregs)
+TCGA-LN-A9FQ-01A	Low	0.0472766888876798	T cells regulatory (Tregs)
+TCGA-LN-A7HZ-01A	High	0.0202832562435962	T cells regulatory (Tregs)
+TCGA-LN-A8I1-01A	Low	0.0164800039374932	T cells regulatory (Tregs)
+TCGA-L5-A8NL-01A	High	0.0198957343373132	T cells regulatory (Tregs)
+TCGA-LN-A49W-01A	High	0.0449153646594765	T cells regulatory (Tregs)
+TCGA-LN-A49O-01A	High	0.0	T cells regulatory (Tregs)
+TCGA-L5-A8NS-01A	High	0.0941487376914545	T cells regulatory (Tregs)
+TCGA-2H-A9GI-01A	Low	0.0107154621536758	T cells regulatory (Tregs)
+TCGA-IG-A97H-01A	Low	0.0	T cells regulatory (Tregs)
+TCGA-IG-A7DP-01A	Low	0.131855956118245	T cells regulatory (Tregs)
+TCGA-LN-A49U-01A	Low	0.0	T cells regulatory (Tregs)
+TCGA-V5-AASV-01A	Low	0.0435637332983326	T cells regulatory (Tregs)
+TCGA-L5-A88S-01A	High	0.0	T cells regulatory (Tregs)
+TCGA-LN-A4A8-01A	Low	0.0789246352722737	T cells regulatory (Tregs)
+TCGA-IC-A6RF-01A	Low	0.0278476854863112	T cells regulatory (Tregs)
+TCGA-R6-A8W5-01B	High	0.017687800375817	T cells regulatory (Tregs)
+TCGA-VR-AA7I-01A	Low	0.0265211044391233	T cells regulatory (Tregs)
+TCGA-IG-A51D-01A	Low	0.0217394637972908	T cells regulatory (Tregs)
+TCGA-VR-AA4G-01A	High	0.0	T cells regulatory (Tregs)
+TCGA-VR-A8EZ-01A	High	0.0265477780790496	T cells regulatory (Tregs)
+TCGA-VR-A8EU-01A	High	0.0069474870172762	T cells regulatory (Tregs)
+TCGA-IG-A4P3-01A	Low	0.0712692827449989	T cells regulatory (Tregs)
+TCGA-S8-A6BV-01A	High	0.0617152415825267	T cells regulatory (Tregs)
+TCGA-IG-A3YC-01A	Low	0.0908196096176413	T cells regulatory (Tregs)
+TCGA-IG-A3YA-01A	Low	0.0458985422263446	T cells regulatory (Tregs)
+TCGA-L5-A8NQ-01A	Low	0.0356513607164342	T cells regulatory (Tregs)
+TCGA-JY-A939-01A	Low	0.0605037231073524	T cells regulatory (Tregs)
+TCGA-LN-A4A5-01A	Low	0.0195443219560587	T cells regulatory (Tregs)
+TCGA-VR-A8EQ-01A	High	0.108004097897905	T cells regulatory (Tregs)
+TCGA-L5-A4OE-01A	High	0.0185101963579297	T cells regulatory (Tregs)
+TCGA-JY-A93E-01A	High	0.0686265661128557	T cells regulatory (Tregs)
+TCGA-LN-A5U7-01A	Low	0.0	T cells regulatory (Tregs)
+TCGA-2H-A9GF-01A	High	0.107982250791514	T cells regulatory (Tregs)
+TCGA-VR-A8EO-01A	Low	0.0158944403527399	T cells regulatory (Tregs)
+TCGA-L5-A8NT-01A	High	0.0521216460346138	T cells regulatory (Tregs)
+TCGA-VR-A8EX-01A	Low	0.0830846780430297	T cells regulatory (Tregs)
+TCGA-L5-A4OU-01A	High	0.0126253556148889	T cells regulatory (Tregs)
+TCGA-JY-A93D-01A	Low	0.0467694116340042	T cells regulatory (Tregs)
+TCGA-2H-A9GR-01A	Low	0.126899478053129	T cells regulatory (Tregs)
+TCGA-VR-A8EY-01A	Low	0.0174076453609705	T cells regulatory (Tregs)
+TCGA-JY-A938-01A	Low	0.100544043979873	T cells regulatory (Tregs)
+TCGA-L5-A4OS-01A	Low	0.0042860564368603	T cells regulatory (Tregs)
+TCGA-VR-A8Q7-01A	Low	0.0115348875607409	T cells regulatory (Tregs)
+TCGA-L5-A8NV-01A	High	0.0995886577340336	T cells regulatory (Tregs)
+TCGA-R6-A6Y0-01B	Low	0.0773882127335953	T cells regulatory (Tregs)
+TCGA-JY-A6FD-01A	Low	0.0	T cells regulatory (Tregs)
+TCGA-L5-A8NU-01A	Low	0.158117037226577	T cells regulatory (Tregs)
+TCGA-LN-A9FO-01A	High	0.0	T cells gamma delta
+TCGA-IG-A50L-01A	High	0.0	T cells gamma delta
+TCGA-Z6-A8JE-01A	High	0.0	T cells gamma delta
+TCGA-IG-A3YB-01A	Low	0.0	T cells gamma delta
+TCGA-Z6-AAPN-01A	High	0.0226855577260684	T cells gamma delta
+TCGA-L5-A893-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A43C-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A4OO-01A	High	0.0	T cells gamma delta
+TCGA-Z6-A8JD-01A	Low	0.0	T cells gamma delta
+TCGA-V5-A7RC-06A	High	0.0	T cells gamma delta
+TCGA-V5-A7RC-01B	High	0.004590943860366	T cells gamma delta
+TCGA-JY-A6FE-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A5U5-01A	High	0.0	T cells gamma delta
+TCGA-IG-A8O2-01A	High	0.0	T cells gamma delta
+TCGA-RE-A7BO-01A	High	0.0	T cells gamma delta
+TCGA-2H-A9GK-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A8NM-01A	High	0.0	T cells gamma delta
+TCGA-R6-A6DN-01B	High	0.0	T cells gamma delta
+TCGA-VR-A8EW-01A	High	0.0	T cells gamma delta
+TCGA-V5-AASX-01A	Low	0.0	T cells gamma delta
+TCGA-IG-A6QS-01A	High	0.0	T cells gamma delta
+TCGA-L7-A56G-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A4A9-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A7HW-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A7HY-01A	High	0.0227451147497113	T cells gamma delta
+TCGA-IG-A97I-01A	High	0.0	T cells gamma delta
+TCGA-LN-A7HX-01A	High	0.0	T cells gamma delta
+TCGA-LN-A9FR-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A49P-01A	High	0.0	T cells gamma delta
+TCGA-LN-A5U6-01A	Low	0.0	T cells gamma delta
+TCGA-VR-A8ER-01A	High	0.0	T cells gamma delta
+TCGA-LN-A4A1-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A49X-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A49M-01A	High	0.0	T cells gamma delta
+TCGA-R6-A8WG-01A	High	0.0	T cells gamma delta
+TCGA-LN-A9FQ-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A7HZ-01A	High	0.0	T cells gamma delta
+TCGA-LN-A8I1-01A	Low	0.0114256531789911	T cells gamma delta
+TCGA-L5-A8NL-01A	High	0.0	T cells gamma delta
+TCGA-LN-A49W-01A	High	0.0	T cells gamma delta
+TCGA-LN-A49O-01A	High	0.0	T cells gamma delta
+TCGA-L5-A8NS-01A	High	0.0	T cells gamma delta
+TCGA-2H-A9GI-01A	Low	0.0	T cells gamma delta
+TCGA-IG-A97H-01A	Low	0.0	T cells gamma delta
+TCGA-IG-A7DP-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A49U-01A	Low	0.0	T cells gamma delta
+TCGA-V5-AASV-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A88S-01A	High	0.0	T cells gamma delta
+TCGA-LN-A4A8-01A	Low	0.0	T cells gamma delta
+TCGA-IC-A6RF-01A	Low	0.0	T cells gamma delta
+TCGA-R6-A8W5-01B	High	0.0	T cells gamma delta
+TCGA-VR-AA7I-01A	Low	0.0	T cells gamma delta
+TCGA-IG-A51D-01A	Low	0.0	T cells gamma delta
+TCGA-VR-AA4G-01A	High	0.0	T cells gamma delta
+TCGA-VR-A8EZ-01A	High	0.0	T cells gamma delta
+TCGA-VR-A8EU-01A	High	0.0153789982156706	T cells gamma delta
+TCGA-IG-A4P3-01A	Low	0.0	T cells gamma delta
+TCGA-S8-A6BV-01A	High	0.0	T cells gamma delta
+TCGA-IG-A3YC-01A	Low	0.0	T cells gamma delta
+TCGA-IG-A3YA-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A8NQ-01A	Low	0.0	T cells gamma delta
+TCGA-JY-A939-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A4A5-01A	Low	0.0	T cells gamma delta
+TCGA-VR-A8EQ-01A	High	0.0	T cells gamma delta
+TCGA-L5-A4OE-01A	High	0.0	T cells gamma delta
+TCGA-JY-A93E-01A	High	0.0	T cells gamma delta
+TCGA-LN-A5U7-01A	Low	0.0	T cells gamma delta
+TCGA-2H-A9GF-01A	High	0.0	T cells gamma delta
+TCGA-VR-A8EO-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A8NT-01A	High	0.0	T cells gamma delta
+TCGA-VR-A8EX-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A4OU-01A	High	0.0586071725979442	T cells gamma delta
+TCGA-JY-A93D-01A	Low	0.0	T cells gamma delta
+TCGA-2H-A9GR-01A	Low	0.0	T cells gamma delta
+TCGA-VR-A8EY-01A	Low	0.0	T cells gamma delta
+TCGA-JY-A938-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A4OS-01A	Low	0.030323537209973	T cells gamma delta
+TCGA-VR-A8Q7-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A8NV-01A	High	0.0	T cells gamma delta
+TCGA-R6-A6Y0-01B	Low	0.0	T cells gamma delta
+TCGA-JY-A6FD-01A	Low	0.0	T cells gamma delta
+TCGA-L5-A8NU-01A	Low	0.0	T cells gamma delta
+TCGA-LN-A9FO-01A	High	0.0458453542776917	NK cells resting
+TCGA-IG-A50L-01A	High	0.0249324033997137	NK cells resting
+TCGA-Z6-A8JE-01A	High	0.0	NK cells resting
+TCGA-IG-A3YB-01A	Low	0.0	NK cells resting
+TCGA-Z6-AAPN-01A	High	0.0	NK cells resting
+TCGA-L5-A893-01A	Low	0.0158862971464573	NK cells resting
+TCGA-L5-A43C-01A	Low	0.0415489254584178	NK cells resting
+TCGA-L5-A4OO-01A	High	0.0248900086059222	NK cells resting
+TCGA-Z6-A8JD-01A	Low	0.0308162832592513	NK cells resting
+TCGA-V5-A7RC-06A	High	0.016591177978099	NK cells resting
+TCGA-V5-A7RC-01B	High	0.0446115671280463	NK cells resting
+TCGA-JY-A6FE-01A	Low	0.0	NK cells resting
+TCGA-LN-A5U5-01A	High	0.0	NK cells resting
+TCGA-IG-A8O2-01A	High	0.0	NK cells resting
+TCGA-RE-A7BO-01A	High	0.0260913580944669	NK cells resting
+TCGA-2H-A9GK-01A	Low	0.0650377155031974	NK cells resting
+TCGA-L5-A8NM-01A	High	0.0532224740101749	NK cells resting
+TCGA-R6-A6DN-01B	High	0.0035063066657874	NK cells resting
+TCGA-VR-A8EW-01A	High	0.0	NK cells resting
+TCGA-V5-AASX-01A	Low	0.0	NK cells resting
+TCGA-IG-A6QS-01A	High	0.0365988256058686	NK cells resting
+TCGA-L7-A56G-01A	Low	0.0199413414780158	NK cells resting
+TCGA-LN-A4A9-01A	Low	0.0423005683957313	NK cells resting
+TCGA-LN-A7HW-01A	Low	0.0405681841361088	NK cells resting
+TCGA-LN-A7HY-01A	High	0.0	NK cells resting
+TCGA-IG-A97I-01A	High	0.0048762971391903	NK cells resting
+TCGA-LN-A7HX-01A	High	0.0145422841064118	NK cells resting
+TCGA-LN-A9FR-01A	Low	0.0049502708302217	NK cells resting
+TCGA-LN-A49P-01A	High	0.0346006785307874	NK cells resting
+TCGA-LN-A5U6-01A	Low	0.0068739707178081	NK cells resting
+TCGA-VR-A8ER-01A	High	0.0115045257080553	NK cells resting
+TCGA-LN-A4A1-01A	Low	0.0351160500310528	NK cells resting
+TCGA-LN-A49X-01A	Low	0.0	NK cells resting
+TCGA-LN-A49M-01A	High	0.0146981734703529	NK cells resting
+TCGA-R6-A8WG-01A	High	0.01760910631278	NK cells resting
+TCGA-LN-A9FQ-01A	Low	0.0	NK cells resting
+TCGA-LN-A7HZ-01A	High	0.0	NK cells resting
+TCGA-LN-A8I1-01A	Low	0.0	NK cells resting
+TCGA-L5-A8NL-01A	High	0.0153982433925469	NK cells resting
+TCGA-LN-A49W-01A	High	0.0144002373947062	NK cells resting
+TCGA-LN-A49O-01A	High	0.0	NK cells resting
+TCGA-L5-A8NS-01A	High	0.0033876100188521	NK cells resting
+TCGA-2H-A9GI-01A	Low	0.0311952077439022	NK cells resting
+TCGA-IG-A97H-01A	Low	0.0127405521327784	NK cells resting
+TCGA-IG-A7DP-01A	Low	0.0	NK cells resting
+TCGA-LN-A49U-01A	Low	0.062802021778684	NK cells resting
+TCGA-V5-AASV-01A	Low	0.146420175323225	NK cells resting
+TCGA-L5-A88S-01A	High	0.0197365484268733	NK cells resting
+TCGA-LN-A4A8-01A	Low	0.077751647790704	NK cells resting
+TCGA-IC-A6RF-01A	Low	0.0267556202250445	NK cells resting
+TCGA-R6-A8W5-01B	High	0.0244911493688332	NK cells resting
+TCGA-VR-AA7I-01A	Low	0.0765978976602732	NK cells resting
+TCGA-IG-A51D-01A	Low	0.0191034402379903	NK cells resting
+TCGA-VR-AA4G-01A	High	0.0	NK cells resting
+TCGA-VR-A8EZ-01A	High	0.0	NK cells resting
+TCGA-VR-A8EU-01A	High	0.0838339541464172	NK cells resting
+TCGA-IG-A4P3-01A	Low	0.0236118539180854	NK cells resting
+TCGA-S8-A6BV-01A	High	0.0	NK cells resting
+TCGA-IG-A3YC-01A	Low	0.0279904629412459	NK cells resting
+TCGA-IG-A3YA-01A	Low	5.77651575572752e-05	NK cells resting
+TCGA-L5-A8NQ-01A	Low	0.0583147761882827	NK cells resting
+TCGA-JY-A939-01A	Low	0.0153147652484836	NK cells resting
+TCGA-LN-A4A5-01A	Low	0.0	NK cells resting
+TCGA-VR-A8EQ-01A	High	0.0	NK cells resting
+TCGA-L5-A4OE-01A	High	0.0342039596830208	NK cells resting
+TCGA-JY-A93E-01A	High	0.0445773130905145	NK cells resting
+TCGA-LN-A5U7-01A	Low	0.0069406222765971	NK cells resting
+TCGA-2H-A9GF-01A	High	0.0745808216632238	NK cells resting
+TCGA-VR-A8EO-01A	Low	0.0	NK cells resting
+TCGA-L5-A8NT-01A	High	0.0	NK cells resting
+TCGA-VR-A8EX-01A	Low	0.0	NK cells resting
+TCGA-L5-A4OU-01A	High	0.0905708718048599	NK cells resting
+TCGA-JY-A93D-01A	Low	0.0	NK cells resting
+TCGA-2H-A9GR-01A	Low	0.0	NK cells resting
+TCGA-VR-A8EY-01A	Low	0.0	NK cells resting
+TCGA-JY-A938-01A	Low	0.0	NK cells resting
+TCGA-L5-A4OS-01A	Low	0.0070142842817441	NK cells resting
+TCGA-VR-A8Q7-01A	Low	0.0	NK cells resting
+TCGA-L5-A8NV-01A	High	0.0	NK cells resting
+TCGA-R6-A6Y0-01B	Low	0.0325656894946049	NK cells resting
+TCGA-JY-A6FD-01A	Low	0.0589602252265092	NK cells resting
+TCGA-L5-A8NU-01A	Low	0.0233917244400282	NK cells resting
+TCGA-LN-A9FO-01A	High	0.0	NK cells activated
+TCGA-IG-A50L-01A	High	0.0	NK cells activated
+TCGA-Z6-A8JE-01A	High	0.0395486604651308	NK cells activated
+TCGA-IG-A3YB-01A	Low	0.0321998712897206	NK cells activated
+TCGA-Z6-AAPN-01A	High	0.0194038886442325	NK cells activated
+TCGA-L5-A893-01A	Low	0.0	NK cells activated
+TCGA-L5-A43C-01A	Low	0.0	NK cells activated
+TCGA-L5-A4OO-01A	High	0.0	NK cells activated
+TCGA-Z6-A8JD-01A	Low	0.0	NK cells activated
+TCGA-V5-A7RC-06A	High	0.0395950684160023	NK cells activated
+TCGA-V5-A7RC-01B	High	0.0	NK cells activated
+TCGA-JY-A6FE-01A	Low	0.0427289004020142	NK cells activated
+TCGA-LN-A5U5-01A	High	0.0618100434710619	NK cells activated
+TCGA-IG-A8O2-01A	High	0.0415085208212096	NK cells activated
+TCGA-RE-A7BO-01A	High	0.0132707213697576	NK cells activated
+TCGA-2H-A9GK-01A	Low	0.0	NK cells activated
+TCGA-L5-A8NM-01A	High	0.0	NK cells activated
+TCGA-R6-A6DN-01B	High	0.0328843815333825	NK cells activated
+TCGA-VR-A8EW-01A	High	0.0026092736114379	NK cells activated
+TCGA-V5-AASX-01A	Low	0.0667859217462534	NK cells activated
+TCGA-IG-A6QS-01A	High	0.0429377718895658	NK cells activated
+TCGA-L7-A56G-01A	Low	0.0235221583307043	NK cells activated
+TCGA-LN-A4A9-01A	Low	0.0257676759078383	NK cells activated
+TCGA-LN-A7HW-01A	Low	0.0005320532273467	NK cells activated
+TCGA-LN-A7HY-01A	High	0.113620519416335	NK cells activated
+TCGA-IG-A97I-01A	High	0.0291456504473051	NK cells activated
+TCGA-LN-A7HX-01A	High	0.0232216916852501	NK cells activated
+TCGA-LN-A9FR-01A	Low	0.0186517619394346	NK cells activated
+TCGA-LN-A49P-01A	High	0.0	NK cells activated
+TCGA-LN-A5U6-01A	Low	0.0451956131760828	NK cells activated
+TCGA-VR-A8ER-01A	High	0.0053065990072352	NK cells activated
+TCGA-LN-A4A1-01A	Low	0.0	NK cells activated
+TCGA-LN-A49X-01A	Low	0.0660393891376089	NK cells activated
+TCGA-LN-A49M-01A	High	0.0	NK cells activated
+TCGA-R6-A8WG-01A	High	0.0	NK cells activated
+TCGA-LN-A9FQ-01A	Low	0.0123867570460927	NK cells activated
+TCGA-LN-A7HZ-01A	High	0.0558101814334935	NK cells activated
+TCGA-LN-A8I1-01A	Low	0.0804331902262043	NK cells activated
+TCGA-L5-A8NL-01A	High	0.0	NK cells activated
+TCGA-LN-A49W-01A	High	0.0	NK cells activated
+TCGA-LN-A49O-01A	High	0.0427040072120149	NK cells activated
+TCGA-L5-A8NS-01A	High	0.023779507915846	NK cells activated
+TCGA-2H-A9GI-01A	Low	0.0	NK cells activated
+TCGA-IG-A97H-01A	Low	0.0	NK cells activated
+TCGA-IG-A7DP-01A	Low	0.0	NK cells activated
+TCGA-LN-A49U-01A	Low	0.0	NK cells activated
+TCGA-V5-AASV-01A	Low	0.0124995707829098	NK cells activated
+TCGA-L5-A88S-01A	High	0.0224672925451433	NK cells activated
+TCGA-LN-A4A8-01A	Low	0.0	NK cells activated
+TCGA-IC-A6RF-01A	Low	0.0	NK cells activated
+TCGA-R6-A8W5-01B	High	0.0	NK cells activated
+TCGA-VR-AA7I-01A	Low	0.0	NK cells activated
+TCGA-IG-A51D-01A	Low	0.0799985213473136	NK cells activated
+TCGA-VR-AA4G-01A	High	0.0939818291370477	NK cells activated
+TCGA-VR-A8EZ-01A	High	0.0988261508211842	NK cells activated
+TCGA-VR-A8EU-01A	High	0.0	NK cells activated
+TCGA-IG-A4P3-01A	Low	0.0	NK cells activated
+TCGA-S8-A6BV-01A	High	0.0217881624514874	NK cells activated
+TCGA-IG-A3YC-01A	Low	0.0	NK cells activated
+TCGA-IG-A3YA-01A	Low	0.0	NK cells activated
+TCGA-L5-A8NQ-01A	Low	0.0327926312557107	NK cells activated
+TCGA-JY-A939-01A	Low	0.0023114138735576	NK cells activated
+TCGA-LN-A4A5-01A	Low	0.0238006126232855	NK cells activated
+TCGA-VR-A8EQ-01A	High	0.0554396376399848	NK cells activated
+TCGA-L5-A4OE-01A	High	0.0	NK cells activated
+TCGA-JY-A93E-01A	High	0.0	NK cells activated
+TCGA-LN-A5U7-01A	Low	0.0450946702446482	NK cells activated
+TCGA-2H-A9GF-01A	High	0.0060785312520706	NK cells activated
+TCGA-VR-A8EO-01A	Low	0.0	NK cells activated
+TCGA-L5-A8NT-01A	High	0.0136990019299165	NK cells activated
+TCGA-VR-A8EX-01A	Low	0.067999518662413	NK cells activated
+TCGA-L5-A4OU-01A	High	0.0	NK cells activated
+TCGA-JY-A93D-01A	Low	0.0109413085823405	NK cells activated
+TCGA-2H-A9GR-01A	Low	0.0357805405855948	NK cells activated
+TCGA-VR-A8EY-01A	Low	0.0163884717226096	NK cells activated
+TCGA-JY-A938-01A	Low	0.0574120742692951	NK cells activated
+TCGA-L5-A4OS-01A	Low	0.0	NK cells activated
+TCGA-VR-A8Q7-01A	Low	0.026752443443258	NK cells activated
+TCGA-L5-A8NV-01A	High	0.0310108568159555	NK cells activated
+TCGA-R6-A6Y0-01B	Low	0.0	NK cells activated
+TCGA-JY-A6FD-01A	Low	0.0134526903130646	NK cells activated
+TCGA-L5-A8NU-01A	Low	0.0	NK cells activated
+TCGA-LN-A9FO-01A	High	0.0	Monocytes
+TCGA-IG-A50L-01A	High	0.0	Monocytes
+TCGA-Z6-A8JE-01A	High	0.0	Monocytes
+TCGA-IG-A3YB-01A	Low	0.0531847459156595	Monocytes
+TCGA-Z6-AAPN-01A	High	0.0	Monocytes
+TCGA-L5-A893-01A	Low	0.0	Monocytes
+TCGA-L5-A43C-01A	Low	0.0048442723825678	Monocytes
+TCGA-L5-A4OO-01A	High	0.0046056525378799	Monocytes
+TCGA-Z6-A8JD-01A	Low	0.0	Monocytes
+TCGA-V5-A7RC-06A	High	0.0195241659402754	Monocytes
+TCGA-V5-A7RC-01B	High	0.0	Monocytes
+TCGA-JY-A6FE-01A	Low	0.0013339293679146	Monocytes
+TCGA-LN-A5U5-01A	High	0.0	Monocytes
+TCGA-IG-A8O2-01A	High	0.0225915960603614	Monocytes
+TCGA-RE-A7BO-01A	High	0.0	Monocytes
+TCGA-2H-A9GK-01A	Low	0.0058948785617703	Monocytes
+TCGA-L5-A8NM-01A	High	0.0	Monocytes
+TCGA-R6-A6DN-01B	High	0.0111747664427262	Monocytes
+TCGA-VR-A8EW-01A	High	0.0	Monocytes
+TCGA-V5-AASX-01A	Low	0.0	Monocytes
+TCGA-IG-A6QS-01A	High	0.0	Monocytes
+TCGA-L7-A56G-01A	Low	0.030468832525346	Monocytes
+TCGA-LN-A4A9-01A	Low	0.0	Monocytes
+TCGA-LN-A7HW-01A	Low	0.0121304157820597	Monocytes
+TCGA-LN-A7HY-01A	High	0.0	Monocytes
+TCGA-IG-A97I-01A	High	0.0	Monocytes
+TCGA-LN-A7HX-01A	High	0.0	Monocytes
+TCGA-LN-A9FR-01A	Low	0.008488954900755	Monocytes
+TCGA-LN-A49P-01A	High	0.0	Monocytes
+TCGA-LN-A5U6-01A	Low	0.0	Monocytes
+TCGA-VR-A8ER-01A	High	0.0	Monocytes
+TCGA-LN-A4A1-01A	Low	0.0	Monocytes
+TCGA-LN-A49X-01A	Low	0.0	Monocytes
+TCGA-LN-A49M-01A	High	0.0	Monocytes
+TCGA-R6-A8WG-01A	High	0.0	Monocytes
+TCGA-LN-A9FQ-01A	Low	0.0	Monocytes
+TCGA-LN-A7HZ-01A	High	0.0	Monocytes
+TCGA-LN-A8I1-01A	Low	0.0114839736676407	Monocytes
+TCGA-L5-A8NL-01A	High	0.0	Monocytes
+TCGA-LN-A49W-01A	High	0.0	Monocytes
+TCGA-LN-A49O-01A	High	0.0	Monocytes
+TCGA-L5-A8NS-01A	High	0.0	Monocytes
+TCGA-2H-A9GI-01A	Low	0.0	Monocytes
+TCGA-IG-A97H-01A	Low	0.0	Monocytes
+TCGA-IG-A7DP-01A	Low	0.0071969291708029	Monocytes
+TCGA-LN-A49U-01A	Low	0.0	Monocytes
+TCGA-V5-AASV-01A	Low	0.0142551236683326	Monocytes
+TCGA-L5-A88S-01A	High	0.027398998797269	Monocytes
+TCGA-LN-A4A8-01A	Low	0.0062963237938502	Monocytes
+TCGA-IC-A6RF-01A	Low	0.0013488628964346	Monocytes
+TCGA-R6-A8W5-01B	High	0.0	Monocytes
+TCGA-VR-AA7I-01A	Low	0.0047004290035898	Monocytes
+TCGA-IG-A51D-01A	Low	0.0	Monocytes
+TCGA-VR-AA4G-01A	High	0.0061856677401212	Monocytes
+TCGA-VR-A8EZ-01A	High	0.0056324287095293	Monocytes
+TCGA-VR-A8EU-01A	High	0.0	Monocytes
+TCGA-IG-A4P3-01A	Low	0.0	Monocytes
+TCGA-S8-A6BV-01A	High	0.0	Monocytes
+TCGA-IG-A3YC-01A	Low	0.0	Monocytes
+TCGA-IG-A3YA-01A	Low	0.020118598200807	Monocytes
+TCGA-L5-A8NQ-01A	Low	0.0	Monocytes
+TCGA-JY-A939-01A	Low	0.0	Monocytes
+TCGA-LN-A4A5-01A	Low	0.0	Monocytes
+TCGA-VR-A8EQ-01A	High	0.0	Monocytes
+TCGA-L5-A4OE-01A	High	0.0004688473420248	Monocytes
+TCGA-JY-A93E-01A	High	0.0056693433163975	Monocytes
+TCGA-LN-A5U7-01A	Low	0.0	Monocytes
+TCGA-2H-A9GF-01A	High	0.0	Monocytes
+TCGA-VR-A8EO-01A	Low	0.0333295899485582	Monocytes
+TCGA-L5-A8NT-01A	High	0.0044180467588116	Monocytes
+TCGA-VR-A8EX-01A	Low	0.0038302528418615	Monocytes
+TCGA-L5-A4OU-01A	High	0.0	Monocytes
+TCGA-JY-A93D-01A	Low	0.0	Monocytes
+TCGA-2H-A9GR-01A	Low	0.011618556513416	Monocytes
+TCGA-VR-A8EY-01A	Low	0.0	Monocytes
+TCGA-JY-A938-01A	Low	0.0020051532940642	Monocytes
+TCGA-L5-A4OS-01A	Low	0.0	Monocytes
+TCGA-VR-A8Q7-01A	Low	0.0	Monocytes
+TCGA-L5-A8NV-01A	High	0.0047131242701723	Monocytes
+TCGA-R6-A6Y0-01B	Low	0.0	Monocytes
+TCGA-JY-A6FD-01A	Low	0.0	Monocytes
+TCGA-L5-A8NU-01A	Low	0.0058013392477458	Monocytes
+TCGA-LN-A9FO-01A	High	0.125138360164031	Macrophages M0
+TCGA-IG-A50L-01A	High	0.285698467099419	Macrophages M0
+TCGA-Z6-A8JE-01A	High	0.530536624203368	Macrophages M0
+TCGA-IG-A3YB-01A	Low	0.0	Macrophages M0
+TCGA-Z6-AAPN-01A	High	0.215239202680359	Macrophages M0
+TCGA-L5-A893-01A	Low	0.0800333271010891	Macrophages M0
+TCGA-L5-A43C-01A	Low	0.288230898128683	Macrophages M0
+TCGA-L5-A4OO-01A	High	0.0262808833369169	Macrophages M0
+TCGA-Z6-A8JD-01A	Low	0.237584155934175	Macrophages M0
+TCGA-V5-A7RC-06A	High	0.248482203387633	Macrophages M0
+TCGA-V5-A7RC-01B	High	0.139477750248241	Macrophages M0
+TCGA-JY-A6FE-01A	Low	0.0	Macrophages M0
+TCGA-LN-A5U5-01A	High	0.0138713613807872	Macrophages M0
+TCGA-IG-A8O2-01A	High	0.0	Macrophages M0
+TCGA-RE-A7BO-01A	High	0.240456136211438	Macrophages M0
+TCGA-2H-A9GK-01A	Low	0.0500628616357694	Macrophages M0
+TCGA-L5-A8NM-01A	High	0.0959461917947931	Macrophages M0
+TCGA-R6-A6DN-01B	High	0.0	Macrophages M0
+TCGA-VR-A8EW-01A	High	0.384053500244226	Macrophages M0
+TCGA-V5-AASX-01A	Low	0.120783322259713	Macrophages M0
+TCGA-IG-A6QS-01A	High	0.14831215696128	Macrophages M0
+TCGA-L7-A56G-01A	Low	0.154632457253098	Macrophages M0
+TCGA-LN-A4A9-01A	Low	0.128392656902053	Macrophages M0
+TCGA-LN-A7HW-01A	Low	0.398252211492485	Macrophages M0
+TCGA-LN-A7HY-01A	High	0.0707633728146227	Macrophages M0
+TCGA-IG-A97I-01A	High	0.739095622476622	Macrophages M0
+TCGA-LN-A7HX-01A	High	0.260288930303254	Macrophages M0
+TCGA-LN-A9FR-01A	Low	0.144374473342525	Macrophages M0
+TCGA-LN-A49P-01A	High	0.241317545784313	Macrophages M0
+TCGA-LN-A5U6-01A	Low	0.344351597550695	Macrophages M0
+TCGA-VR-A8ER-01A	High	0.300279988811865	Macrophages M0
+TCGA-LN-A4A1-01A	Low	0.642498800372568	Macrophages M0
+TCGA-LN-A49X-01A	Low	0.369263163018507	Macrophages M0
+TCGA-LN-A49M-01A	High	0.617679937801414	Macrophages M0
+TCGA-R6-A8WG-01A	High	0.38873489080056	Macrophages M0
+TCGA-LN-A9FQ-01A	Low	0.251619852440562	Macrophages M0
+TCGA-LN-A7HZ-01A	High	0.0080261849262305	Macrophages M0
+TCGA-LN-A8I1-01A	Low	0.0033305467136478	Macrophages M0
+TCGA-L5-A8NL-01A	High	0.333890663722458	Macrophages M0
+TCGA-LN-A49W-01A	High	0.11252438148422	Macrophages M0
+TCGA-LN-A49O-01A	High	0.236691898993158	Macrophages M0
+TCGA-L5-A8NS-01A	High	0.0969482090103614	Macrophages M0
+TCGA-2H-A9GI-01A	Low	0.0283741367138031	Macrophages M0
+TCGA-IG-A97H-01A	Low	0.39102481617431	Macrophages M0
+TCGA-IG-A7DP-01A	Low	0.0780884082851031	Macrophages M0
+TCGA-LN-A49U-01A	Low	0.320977485905185	Macrophages M0
+TCGA-V5-AASV-01A	Low	0.0837633078032291	Macrophages M0
+TCGA-L5-A88S-01A	High	0.0	Macrophages M0
+TCGA-LN-A4A8-01A	Low	0.0283940612997916	Macrophages M0
+TCGA-IC-A6RF-01A	Low	0.12651596947329	Macrophages M0
+TCGA-R6-A8W5-01B	High	0.25727899577639	Macrophages M0
+TCGA-VR-AA7I-01A	Low	0.0574572304182497	Macrophages M0
+TCGA-IG-A51D-01A	Low	0.171314912145659	Macrophages M0
+TCGA-VR-AA4G-01A	High	0.0651619239352056	Macrophages M0
+TCGA-VR-A8EZ-01A	High	0.0	Macrophages M0
+TCGA-VR-A8EU-01A	High	0.119359496515505	Macrophages M0
+TCGA-IG-A4P3-01A	Low	0.0879408170199044	Macrophages M0
+TCGA-S8-A6BV-01A	High	0.338085075436358	Macrophages M0
+TCGA-IG-A3YC-01A	Low	0.316349206977845	Macrophages M0
+TCGA-IG-A3YA-01A	Low	0.284689382719373	Macrophages M0
+TCGA-L5-A8NQ-01A	Low	0.191569585065813	Macrophages M0
+TCGA-JY-A939-01A	Low	0.0648827792303897	Macrophages M0
+TCGA-LN-A4A5-01A	Low	0.228129798103971	Macrophages M0
+TCGA-VR-A8EQ-01A	High	0.257621657704205	Macrophages M0
+TCGA-L5-A4OE-01A	High	0.0823028336674787	Macrophages M0
+TCGA-JY-A93E-01A	High	0.101621881335163	Macrophages M0
+TCGA-LN-A5U7-01A	Low	0.0951697876398031	Macrophages M0
+TCGA-2H-A9GF-01A	High	0.457213428315745	Macrophages M0
+TCGA-VR-A8EO-01A	Low	0.333584150740766	Macrophages M0
+TCGA-L5-A8NT-01A	High	0.0990446732059867	Macrophages M0
+TCGA-VR-A8EX-01A	Low	0.0551292957984263	Macrophages M0
+TCGA-L5-A4OU-01A	High	0.0389237212394814	Macrophages M0
+TCGA-JY-A93D-01A	Low	0.0444498889129994	Macrophages M0
+TCGA-2H-A9GR-01A	Low	0.0249766506682082	Macrophages M0
+TCGA-VR-A8EY-01A	Low	0.227697619768386	Macrophages M0
+TCGA-JY-A938-01A	Low	0.0602856766505933	Macrophages M0
+TCGA-L5-A4OS-01A	Low	0.262939261913482	Macrophages M0
+TCGA-VR-A8Q7-01A	Low	0.167336813891488	Macrophages M0
+TCGA-L5-A8NV-01A	High	0.0847541231780316	Macrophages M0
+TCGA-R6-A6Y0-01B	Low	0.345721315426881	Macrophages M0
+TCGA-JY-A6FD-01A	Low	0.0715022602176886	Macrophages M0
+TCGA-L5-A8NU-01A	Low	0.0422025611476322	Macrophages M0
+TCGA-LN-A9FO-01A	High	0.145572667276551	Macrophages M1
+TCGA-IG-A50L-01A	High	0.0466735259672075	Macrophages M1
+TCGA-Z6-A8JE-01A	High	0.0305647191006674	Macrophages M1
+TCGA-IG-A3YB-01A	Low	0.117005422994688	Macrophages M1
+TCGA-Z6-AAPN-01A	High	0.13127617288542	Macrophages M1
+TCGA-L5-A893-01A	Low	0.060191287234331	Macrophages M1
+TCGA-L5-A43C-01A	Low	0.0086501086599472	Macrophages M1
+TCGA-L5-A4OO-01A	High	0.117403448195919	Macrophages M1
+TCGA-Z6-A8JD-01A	Low	0.0999980636076752	Macrophages M1
+TCGA-V5-A7RC-06A	High	0.0175053438845734	Macrophages M1
+TCGA-V5-A7RC-01B	High	0.11109064803356	Macrophages M1
+TCGA-JY-A6FE-01A	Low	0.0672760804351408	Macrophages M1
+TCGA-LN-A5U5-01A	High	0.0886740307695222	Macrophages M1
+TCGA-IG-A8O2-01A	High	0.0602661267729853	Macrophages M1
+TCGA-RE-A7BO-01A	High	0.0	Macrophages M1
+TCGA-2H-A9GK-01A	Low	0.0033347435365305	Macrophages M1
+TCGA-L5-A8NM-01A	High	0.0908192781990114	Macrophages M1
+TCGA-R6-A6DN-01B	High	0.0629183413705648	Macrophages M1
+TCGA-VR-A8EW-01A	High	0.0128303485859045	Macrophages M1
+TCGA-V5-AASX-01A	Low	0.0707482045147182	Macrophages M1
+TCGA-IG-A6QS-01A	High	0.16189526040802	Macrophages M1
+TCGA-L7-A56G-01A	Low	0.225717269950647	Macrophages M1
+TCGA-LN-A4A9-01A	Low	0.116931044378349	Macrophages M1
+TCGA-LN-A7HW-01A	Low	0.0039708362985677	Macrophages M1
+TCGA-LN-A7HY-01A	High	0.0675658326348415	Macrophages M1
+TCGA-IG-A97I-01A	High	0.0353741783818505	Macrophages M1
+TCGA-LN-A7HX-01A	High	0.0832196985687621	Macrophages M1
+TCGA-LN-A9FR-01A	Low	0.0061088038638495	Macrophages M1
+TCGA-LN-A49P-01A	High	0.154569085043372	Macrophages M1
+TCGA-LN-A5U6-01A	Low	0.139502098271164	Macrophages M1
+TCGA-VR-A8ER-01A	High	0.0596822039922326	Macrophages M1
+TCGA-LN-A4A1-01A	Low	0.0197481850787674	Macrophages M1
+TCGA-LN-A49X-01A	Low	0.142562711468401	Macrophages M1
+TCGA-LN-A49M-01A	High	0.137613447178306	Macrophages M1
+TCGA-R6-A8WG-01A	High	0.0491281568310111	Macrophages M1
+TCGA-LN-A9FQ-01A	Low	0.0888184264470377	Macrophages M1
+TCGA-LN-A7HZ-01A	High	0.0900151875991872	Macrophages M1
+TCGA-LN-A8I1-01A	Low	0.0728779143141821	Macrophages M1
+TCGA-L5-A8NL-01A	High	0.0026333339426717	Macrophages M1
+TCGA-LN-A49W-01A	High	0.143036961704489	Macrophages M1
+TCGA-LN-A49O-01A	High	0.189049108306368	Macrophages M1
+TCGA-L5-A8NS-01A	High	0.0558060214342131	Macrophages M1
+TCGA-2H-A9GI-01A	Low	0.0	Macrophages M1
+TCGA-IG-A97H-01A	Low	0.0	Macrophages M1
+TCGA-IG-A7DP-01A	Low	0.135289427678243	Macrophages M1
+TCGA-LN-A49U-01A	Low	0.0	Macrophages M1
+TCGA-V5-AASV-01A	Low	0.0882666120079035	Macrophages M1
+TCGA-L5-A88S-01A	High	0.0846189767646899	Macrophages M1
+TCGA-LN-A4A8-01A	Low	0.0679842329325311	Macrophages M1
+TCGA-IC-A6RF-01A	Low	0.130820167365317	Macrophages M1
+TCGA-R6-A8W5-01B	High	0.101867868212251	Macrophages M1
+TCGA-VR-AA7I-01A	Low	0.158928470819768	Macrophages M1
+TCGA-IG-A51D-01A	Low	0.254309775205476	Macrophages M1
+TCGA-VR-AA4G-01A	High	0.096464880965402	Macrophages M1
+TCGA-VR-A8EZ-01A	High	0.196036757342573	Macrophages M1
+TCGA-VR-A8EU-01A	High	0.214394945418702	Macrophages M1
+TCGA-IG-A4P3-01A	Low	0.118784322305862	Macrophages M1
+TCGA-S8-A6BV-01A	High	0.028825777014079	Macrophages M1
+TCGA-IG-A3YC-01A	Low	0.0838933907264159	Macrophages M1
+TCGA-IG-A3YA-01A	Low	0.045648103544449	Macrophages M1
+TCGA-L5-A8NQ-01A	Low	0.178786557496188	Macrophages M1
+TCGA-JY-A939-01A	Low	0.1289544892172	Macrophages M1
+TCGA-LN-A4A5-01A	Low	0.0871369599476862	Macrophages M1
+TCGA-VR-A8EQ-01A	High	0.0042703273525005	Macrophages M1
+TCGA-L5-A4OE-01A	High	0.0808865509599422	Macrophages M1
+TCGA-JY-A93E-01A	High	0.0954058817862631	Macrophages M1
+TCGA-LN-A5U7-01A	Low	0.0885193267440334	Macrophages M1
+TCGA-2H-A9GF-01A	High	0.0220336897797098	Macrophages M1
+TCGA-VR-A8EO-01A	Low	0.0324005293009155	Macrophages M1
+TCGA-L5-A8NT-01A	High	0.0632376784829479	Macrophages M1
+TCGA-VR-A8EX-01A	Low	0.0866629987949377	Macrophages M1
+TCGA-L5-A4OU-01A	High	0.12813509283601	Macrophages M1
+TCGA-JY-A93D-01A	Low	0.1371068298471	Macrophages M1
+TCGA-2H-A9GR-01A	Low	0.0702861950563046	Macrophages M1
+TCGA-VR-A8EY-01A	Low	0.0104675543330962	Macrophages M1
+TCGA-JY-A938-01A	Low	0.107219310340013	Macrophages M1
+TCGA-L5-A4OS-01A	Low	0.0608692422240955	Macrophages M1
+TCGA-VR-A8Q7-01A	Low	0.095535259698206	Macrophages M1
+TCGA-L5-A8NV-01A	High	0.0475928416069654	Macrophages M1
+TCGA-R6-A6Y0-01B	Low	0.0263273150531952	Macrophages M1
+TCGA-JY-A6FD-01A	Low	0.1937070235697	Macrophages M1
+TCGA-L5-A8NU-01A	Low	0.0272138248173484	Macrophages M1
+TCGA-LN-A9FO-01A	High	0.0480765430015101	Macrophages M2
+TCGA-IG-A50L-01A	High	0.230161083995048	Macrophages M2
+TCGA-Z6-A8JE-01A	High	0.089105545689902	Macrophages M2
+TCGA-IG-A3YB-01A	Low	0.178142872296337	Macrophages M2
+TCGA-Z6-AAPN-01A	High	0.137121101326638	Macrophages M2
+TCGA-L5-A893-01A	Low	0.042245606736683	Macrophages M2
+TCGA-L5-A43C-01A	Low	0.0968229836382733	Macrophages M2
+TCGA-L5-A4OO-01A	High	0.0842468799071117	Macrophages M2
+TCGA-Z6-A8JD-01A	Low	0.005746560454153	Macrophages M2
+TCGA-V5-A7RC-06A	High	0.0622155040955669	Macrophages M2
+TCGA-V5-A7RC-01B	High	0.154205764368301	Macrophages M2
+TCGA-JY-A6FE-01A	Low	0.565233740070589	Macrophages M2
+TCGA-LN-A5U5-01A	High	0.139755153079883	Macrophages M2
+TCGA-IG-A8O2-01A	High	0.0916748869683325	Macrophages M2
+TCGA-RE-A7BO-01A	High	0.158383172494277	Macrophages M2
+TCGA-2H-A9GK-01A	Low	0.0441590349848317	Macrophages M2
+TCGA-L5-A8NM-01A	High	0.0867495747082695	Macrophages M2
+TCGA-R6-A6DN-01B	High	0.337607758087841	Macrophages M2
+TCGA-VR-A8EW-01A	High	0.152814098307449	Macrophages M2
+TCGA-V5-AASX-01A	Low	0.0649936822525775	Macrophages M2
+TCGA-IG-A6QS-01A	High	0.0797519183479951	Macrophages M2
+TCGA-L7-A56G-01A	Low	0.0	Macrophages M2
+TCGA-LN-A4A9-01A	Low	0.154983005673107	Macrophages M2
+TCGA-LN-A7HW-01A	Low	0.0	Macrophages M2
+TCGA-LN-A7HY-01A	High	0.211398720436412	Macrophages M2
+TCGA-IG-A97I-01A	High	0.0	Macrophages M2
+TCGA-LN-A7HX-01A	High	0.174571578505429	Macrophages M2
+TCGA-LN-A9FR-01A	Low	0.234660770310099	Macrophages M2
+TCGA-LN-A49P-01A	High	0.205180267923219	Macrophages M2
+TCGA-LN-A5U6-01A	Low	0.118452849446045	Macrophages M2
+TCGA-VR-A8ER-01A	High	0.168218815109442	Macrophages M2
+TCGA-LN-A4A1-01A	Low	0.0971270895912383	Macrophages M2
+TCGA-LN-A49X-01A	Low	0.091530551664305	Macrophages M2
+TCGA-LN-A49M-01A	High	0.0703670263706325	Macrophages M2
+TCGA-R6-A8WG-01A	High	0.0742559262771052	Macrophages M2
+TCGA-LN-A9FQ-01A	Low	0.300778829350193	Macrophages M2
+TCGA-LN-A7HZ-01A	High	0.175707041264133	Macrophages M2
+TCGA-LN-A8I1-01A	Low	0.0598008316048763	Macrophages M2
+TCGA-L5-A8NL-01A	High	0.207002231393257	Macrophages M2
+TCGA-LN-A49W-01A	High	0.171569519023072	Macrophages M2
+TCGA-LN-A49O-01A	High	0.152832685908723	Macrophages M2
+TCGA-L5-A8NS-01A	High	0.125489503969805	Macrophages M2
+TCGA-2H-A9GI-01A	Low	0.0142259990194563	Macrophages M2
+TCGA-IG-A97H-01A	Low	0.164501536254932	Macrophages M2
+TCGA-IG-A7DP-01A	Low	0.0892399475982534	Macrophages M2
+TCGA-LN-A49U-01A	Low	0.0983106133122672	Macrophages M2
+TCGA-V5-AASV-01A	Low	0.135137824779498	Macrophages M2
+TCGA-L5-A88S-01A	High	0.463631953592484	Macrophages M2
+TCGA-LN-A4A8-01A	Low	0.029356263561746	Macrophages M2
+TCGA-IC-A6RF-01A	Low	0.0456278837304993	Macrophages M2
+TCGA-R6-A8W5-01B	High	0.0908726433933838	Macrophages M2
+TCGA-VR-AA7I-01A	Low	0.0997593579791288	Macrophages M2
+TCGA-IG-A51D-01A	Low	0.142914789126361	Macrophages M2
+TCGA-VR-AA4G-01A	High	0.025371966789395	Macrophages M2
+TCGA-VR-A8EZ-01A	High	0.184657600829907	Macrophages M2
+TCGA-VR-A8EU-01A	High	0.170051369166001	Macrophages M2
+TCGA-IG-A4P3-01A	Low	0.0586786341440004	Macrophages M2
+TCGA-S8-A6BV-01A	High	0.23461313347095	Macrophages M2
+TCGA-IG-A3YC-01A	Low	0.115106015000705	Macrophages M2
+TCGA-IG-A3YA-01A	Low	0.0651674167626021	Macrophages M2
+TCGA-L5-A8NQ-01A	Low	0.153582152241323	Macrophages M2
+TCGA-JY-A939-01A	Low	0.0930733710268582	Macrophages M2
+TCGA-LN-A4A5-01A	Low	0.0819188301042323	Macrophages M2
+TCGA-VR-A8EQ-01A	High	0.0602175415144019	Macrophages M2
+TCGA-L5-A4OE-01A	High	0.0442217356788958	Macrophages M2
+TCGA-JY-A93E-01A	High	0.12627980043854	Macrophages M2
+TCGA-LN-A5U7-01A	Low	0.193755445421271	Macrophages M2
+TCGA-2H-A9GF-01A	High	0.106446436886736	Macrophages M2
+TCGA-VR-A8EO-01A	Low	0.0443494972772373	Macrophages M2
+TCGA-L5-A8NT-01A	High	0.105839304541436	Macrophages M2
+TCGA-VR-A8EX-01A	Low	0.0431328564259367	Macrophages M2
+TCGA-L5-A4OU-01A	High	0.152952966841524	Macrophages M2
+TCGA-JY-A93D-01A	Low	0.187396586648741	Macrophages M2
+TCGA-2H-A9GR-01A	Low	0.0647425767408145	Macrophages M2
+TCGA-VR-A8EY-01A	Low	0.184874252800575	Macrophages M2
+TCGA-JY-A938-01A	Low	0.0592189151826808	Macrophages M2
+TCGA-L5-A4OS-01A	Low	0.175485134728818	Macrophages M2
+TCGA-VR-A8Q7-01A	Low	0.126352405675196	Macrophages M2
+TCGA-L5-A8NV-01A	High	0.0825344101262364	Macrophages M2
+TCGA-R6-A6Y0-01B	Low	0.086927209199065	Macrophages M2
+TCGA-JY-A6FD-01A	Low	0.105759092539143	Macrophages M2
+TCGA-L5-A8NU-01A	Low	0.0708433408793306	Macrophages M2
+TCGA-LN-A9FO-01A	High	0.0	Dendritic cells resting
+TCGA-IG-A50L-01A	High	0.0198282333952071	Dendritic cells resting
+TCGA-Z6-A8JE-01A	High	0.001067395604764	Dendritic cells resting
+TCGA-IG-A3YB-01A	Low	0.0654132460309711	Dendritic cells resting
+TCGA-Z6-AAPN-01A	High	0.07452430194182	Dendritic cells resting
+TCGA-L5-A893-01A	Low	0.014673288739881	Dendritic cells resting
+TCGA-L5-A43C-01A	Low	0.0	Dendritic cells resting
+TCGA-L5-A4OO-01A	High	0.0026554300980856	Dendritic cells resting
+TCGA-Z6-A8JD-01A	Low	0.0233638748123627	Dendritic cells resting
+TCGA-V5-A7RC-06A	High	0.139797443391559	Dendritic cells resting
+TCGA-V5-A7RC-01B	High	0.0	Dendritic cells resting
+TCGA-JY-A6FE-01A	Low	0.0556184516901318	Dendritic cells resting
+TCGA-LN-A5U5-01A	High	0.100705603822512	Dendritic cells resting
+TCGA-IG-A8O2-01A	High	0.0449919615359608	Dendritic cells resting
+TCGA-RE-A7BO-01A	High	0.0243367303386271	Dendritic cells resting
+TCGA-2H-A9GK-01A	Low	0.0071028237723563	Dendritic cells resting
+TCGA-L5-A8NM-01A	High	0.0	Dendritic cells resting
+TCGA-R6-A6DN-01B	High	0.0326869822389599	Dendritic cells resting
+TCGA-VR-A8EW-01A	High	0.0963945238621219	Dendritic cells resting
+TCGA-V5-AASX-01A	Low	0.0229715077212363	Dendritic cells resting
+TCGA-IG-A6QS-01A	High	0.0246416804393413	Dendritic cells resting
+TCGA-L7-A56G-01A	Low	0.0898237780509346	Dendritic cells resting
+TCGA-LN-A4A9-01A	Low	0.0788884752256221	Dendritic cells resting
+TCGA-LN-A7HW-01A	Low	0.0	Dendritic cells resting
+TCGA-LN-A7HY-01A	High	0.0502800704808929	Dendritic cells resting
+TCGA-IG-A97I-01A	High	0.0026411174248001	Dendritic cells resting
+TCGA-LN-A7HX-01A	High	0.0944697313946759	Dendritic cells resting
+TCGA-LN-A9FR-01A	Low	0.181671686622127	Dendritic cells resting
+TCGA-LN-A49P-01A	High	0.0113238275101537	Dendritic cells resting
+TCGA-LN-A5U6-01A	Low	0.0063136162015752	Dendritic cells resting
+TCGA-VR-A8ER-01A	High	0.0461689723166216	Dendritic cells resting
+TCGA-LN-A4A1-01A	Low	0.007045924762085	Dendritic cells resting
+TCGA-LN-A49X-01A	Low	0.0040975313904171	Dendritic cells resting
+TCGA-LN-A49M-01A	High	0.0	Dendritic cells resting
+TCGA-R6-A8WG-01A	High	0.0	Dendritic cells resting
+TCGA-LN-A9FQ-01A	Low	0.0284006296203045	Dendritic cells resting
+TCGA-LN-A7HZ-01A	High	0.0693916213657733	Dendritic cells resting
+TCGA-LN-A8I1-01A	Low	0.0251925933139894	Dendritic cells resting
+TCGA-L5-A8NL-01A	High	0.0	Dendritic cells resting
+TCGA-LN-A49W-01A	High	0.126609000102156	Dendritic cells resting
+TCGA-LN-A49O-01A	High	0.0018808094897122	Dendritic cells resting
+TCGA-L5-A8NS-01A	High	0.0	Dendritic cells resting
+TCGA-2H-A9GI-01A	Low	0.005387827996397	Dendritic cells resting
+TCGA-IG-A97H-01A	Low	0.0174467528738159	Dendritic cells resting
+TCGA-IG-A7DP-01A	Low	0.0	Dendritic cells resting
+TCGA-LN-A49U-01A	Low	0.0579986768957985	Dendritic cells resting
+TCGA-V5-AASV-01A	Low	0.043058119864106	Dendritic cells resting
+TCGA-L5-A88S-01A	High	0.0	Dendritic cells resting
+TCGA-LN-A4A8-01A	Low	0.0372755786908754	Dendritic cells resting
+TCGA-IC-A6RF-01A	Low	0.0	Dendritic cells resting
+TCGA-R6-A8W5-01B	High	0.0	Dendritic cells resting
+TCGA-VR-AA7I-01A	Low	0.0251883886572436	Dendritic cells resting
+TCGA-IG-A51D-01A	Low	0.0127886739120464	Dendritic cells resting
+TCGA-VR-AA4G-01A	High	0.0856672089314028	Dendritic cells resting
+TCGA-VR-A8EZ-01A	High	0.0333774767729063	Dendritic cells resting
+TCGA-VR-A8EU-01A	High	0.0589474668914927	Dendritic cells resting
+TCGA-IG-A4P3-01A	Low	0.0	Dendritic cells resting
+TCGA-S8-A6BV-01A	High	0.0078951010367072	Dendritic cells resting
+TCGA-IG-A3YC-01A	Low	0.0378980304849228	Dendritic cells resting
+TCGA-IG-A3YA-01A	Low	0.0213334575233381	Dendritic cells resting
+TCGA-L5-A8NQ-01A	Low	0.0	Dendritic cells resting
+TCGA-JY-A939-01A	Low	0.0	Dendritic cells resting
+TCGA-LN-A4A5-01A	Low	0.223028847314294	Dendritic cells resting
+TCGA-VR-A8EQ-01A	High	0.0	Dendritic cells resting
+TCGA-L5-A4OE-01A	High	0.0	Dendritic cells resting
+TCGA-JY-A93E-01A	High	0.0218783228951906	Dendritic cells resting
+TCGA-LN-A5U7-01A	Low	0.0	Dendritic cells resting
+TCGA-2H-A9GF-01A	High	0.00725339983721	Dendritic cells resting
+TCGA-VR-A8EO-01A	Low	0.0	Dendritic cells resting
+TCGA-L5-A8NT-01A	High	0.114497315604249	Dendritic cells resting
+TCGA-VR-A8EX-01A	Low	0.0024182648981668	Dendritic cells resting
+TCGA-L5-A4OU-01A	High	0.009224833153797	Dendritic cells resting
+TCGA-JY-A93D-01A	Low	0.0111405352693597	Dendritic cells resting
+TCGA-2H-A9GR-01A	Low	0.0681601487473477	Dendritic cells resting
+TCGA-VR-A8EY-01A	Low	0.0598961225270341	Dendritic cells resting
+TCGA-JY-A938-01A	Low	0.012839134295696	Dendritic cells resting
+TCGA-L5-A4OS-01A	Low	0.0	Dendritic cells resting
+TCGA-VR-A8Q7-01A	Low	0.0077459648935308	Dendritic cells resting
+TCGA-L5-A8NV-01A	High	0.0584296155676229	Dendritic cells resting
+TCGA-R6-A6Y0-01B	Low	0.0	Dendritic cells resting
+TCGA-JY-A6FD-01A	Low	0.0	Dendritic cells resting
+TCGA-L5-A8NU-01A	Low	0.0102279469609707	Dendritic cells resting
+TCGA-LN-A9FO-01A	High	0.0160092733336336	Dendritic cells activated
+TCGA-IG-A50L-01A	High	0.0604748900642165	Dendritic cells activated
+TCGA-Z6-A8JE-01A	High	0.0149573829459036	Dendritic cells activated
+TCGA-IG-A3YB-01A	Low	0.0375487441751066	Dendritic cells activated
+TCGA-Z6-AAPN-01A	High	0.0	Dendritic cells activated
+TCGA-L5-A893-01A	Low	0.0084969385793717	Dendritic cells activated
+TCGA-L5-A43C-01A	Low	0.0534727075991272	Dendritic cells activated
+TCGA-L5-A4OO-01A	High	0.005530253014294	Dendritic cells activated
+TCGA-Z6-A8JD-01A	Low	0.0	Dendritic cells activated
+TCGA-V5-A7RC-06A	High	0.0071588955916037	Dendritic cells activated
+TCGA-V5-A7RC-01B	High	0.0435192320988664	Dendritic cells activated
+TCGA-JY-A6FE-01A	Low	0.0	Dendritic cells activated
+TCGA-LN-A5U5-01A	High	0.157490905702932	Dendritic cells activated
+TCGA-IG-A8O2-01A	High	0.0623618574121574	Dendritic cells activated
+TCGA-RE-A7BO-01A	High	0.12504520323385	Dendritic cells activated
+TCGA-2H-A9GK-01A	Low	0.110161191712047	Dendritic cells activated
+TCGA-L5-A8NM-01A	High	0.0	Dendritic cells activated
+TCGA-R6-A6DN-01B	High	0.0380912466244138	Dendritic cells activated
+TCGA-VR-A8EW-01A	High	0.0131062811982302	Dendritic cells activated
+TCGA-V5-AASX-01A	Low	0.0137715470905565	Dendritic cells activated
+TCGA-IG-A6QS-01A	High	0.0581015738190886	Dendritic cells activated
+TCGA-L7-A56G-01A	Low	0.0	Dendritic cells activated
+TCGA-LN-A4A9-01A	Low	0.0332020252099806	Dendritic cells activated
+TCGA-LN-A7HW-01A	Low	0.0	Dendritic cells activated
+TCGA-LN-A7HY-01A	High	0.0	Dendritic cells activated
+TCGA-IG-A97I-01A	High	0.0214481009948522	Dendritic cells activated
+TCGA-LN-A7HX-01A	High	0.0240918333671433	Dendritic cells activated
+TCGA-LN-A9FR-01A	Low	0.0776995293950528	Dendritic cells activated
+TCGA-LN-A49P-01A	High	0.0	Dendritic cells activated
+TCGA-LN-A5U6-01A	Low	0.0308045791148003	Dendritic cells activated
+TCGA-VR-A8ER-01A	High	0.0146889223197362	Dendritic cells activated
+TCGA-LN-A4A1-01A	Low	0.0	Dendritic cells activated
+TCGA-LN-A49X-01A	Low	0.0	Dendritic cells activated
+TCGA-LN-A49M-01A	High	0.0305834418559306	Dendritic cells activated
+TCGA-R6-A8WG-01A	High	0.0	Dendritic cells activated
+TCGA-LN-A9FQ-01A	Low	0.0156857787092221	Dendritic cells activated
+TCGA-LN-A7HZ-01A	High	0.0016591987054198	Dendritic cells activated
+TCGA-LN-A8I1-01A	Low	0.0815955541342318	Dendritic cells activated
+TCGA-L5-A8NL-01A	High	0.057683326285455	Dendritic cells activated
+TCGA-LN-A49W-01A	High	0.0	Dendritic cells activated
+TCGA-LN-A49O-01A	High	0.0207015415944244	Dendritic cells activated
+TCGA-L5-A8NS-01A	High	0.043518723243795	Dendritic cells activated
+TCGA-2H-A9GI-01A	Low	0.0403549520821905	Dendritic cells activated
+TCGA-IG-A97H-01A	Low	0.0962961041962576	Dendritic cells activated
+TCGA-IG-A7DP-01A	Low	0.0122645621734034	Dendritic cells activated
+TCGA-LN-A49U-01A	Low	0.0536164336202231	Dendritic cells activated
+TCGA-V5-AASV-01A	Low	0.0024804837492105	Dendritic cells activated
+TCGA-L5-A88S-01A	High	0.030463931171062	Dendritic cells activated
+TCGA-LN-A4A8-01A	Low	0.162704115328416	Dendritic cells activated
+TCGA-IC-A6RF-01A	Low	0.055254183525581	Dendritic cells activated
+TCGA-R6-A8W5-01B	High	0.0	Dendritic cells activated
+TCGA-VR-AA7I-01A	Low	0.0350618153131566	Dendritic cells activated
+TCGA-IG-A51D-01A	Low	0.0	Dendritic cells activated
+TCGA-VR-AA4G-01A	High	0.16994443634125	Dendritic cells activated
+TCGA-VR-A8EZ-01A	High	0.0009145654224156	Dendritic cells activated
+TCGA-VR-A8EU-01A	High	0.0559580967519029	Dendritic cells activated
+TCGA-IG-A4P3-01A	Low	0.0620832200204213	Dendritic cells activated
+TCGA-S8-A6BV-01A	High	0.0	Dendritic cells activated
+TCGA-IG-A3YC-01A	Low	0.0008674343633024	Dendritic cells activated
+TCGA-IG-A3YA-01A	Low	0.119028365522607	Dendritic cells activated
+TCGA-L5-A8NQ-01A	Low	0.002715415783748	Dendritic cells activated
+TCGA-JY-A939-01A	Low	0.0	Dendritic cells activated
+TCGA-LN-A4A5-01A	Low	0.0471042316754821	Dendritic cells activated
+TCGA-VR-A8EQ-01A	High	0.0421802809910869	Dendritic cells activated
+TCGA-L5-A4OE-01A	High	0.17183744058682	Dendritic cells activated
+TCGA-JY-A93E-01A	High	0.0	Dendritic cells activated
+TCGA-LN-A5U7-01A	Low	0.125923684509704	Dendritic cells activated
+TCGA-2H-A9GF-01A	High	0.0	Dendritic cells activated
+TCGA-VR-A8EO-01A	Low	0.0487756705676185	Dendritic cells activated
+TCGA-L5-A8NT-01A	High	0.0369573875090533	Dendritic cells activated
+TCGA-VR-A8EX-01A	Low	0.0508787169896675	Dendritic cells activated
+TCGA-L5-A4OU-01A	High	0.0706461633748141	Dendritic cells activated
+TCGA-JY-A93D-01A	Low	0.0	Dendritic cells activated
+TCGA-2H-A9GR-01A	Low	0.0054852993501799	Dendritic cells activated
+TCGA-VR-A8EY-01A	Low	0.0690120068412667	Dendritic cells activated
+TCGA-JY-A938-01A	Low	0.0196546543545329	Dendritic cells activated
+TCGA-L5-A4OS-01A	Low	0.0145215202044798	Dendritic cells activated
+TCGA-VR-A8Q7-01A	Low	0.042404056255925	Dendritic cells activated
+TCGA-L5-A8NV-01A	High	0.000867614738364	Dendritic cells activated
+TCGA-R6-A6Y0-01B	Low	0.0492919791675782	Dendritic cells activated
+TCGA-JY-A6FD-01A	Low	0.180138749137	Dendritic cells activated
+TCGA-L5-A8NU-01A	Low	0.0522342161597689	Dendritic cells activated
+TCGA-LN-A9FO-01A	High	0.0	Mast cells resting
+TCGA-IG-A50L-01A	High	0.0068915290598368	Mast cells resting
+TCGA-Z6-A8JE-01A	High	0.0630042379399067	Mast cells resting
+TCGA-IG-A3YB-01A	Low	0.0945588372399244	Mast cells resting
+TCGA-Z6-AAPN-01A	High	0.0352072116690894	Mast cells resting
+TCGA-L5-A893-01A	Low	0.0	Mast cells resting
+TCGA-L5-A43C-01A	Low	0.0	Mast cells resting
+TCGA-L5-A4OO-01A	High	0.0478728710649036	Mast cells resting
+TCGA-Z6-A8JD-01A	Low	0.0	Mast cells resting
+TCGA-V5-A7RC-06A	High	0.0938560662135934	Mast cells resting
+TCGA-V5-A7RC-01B	High	0.003580007517219	Mast cells resting
+TCGA-JY-A6FE-01A	Low	0.0	Mast cells resting
+TCGA-LN-A5U5-01A	High	0.110632427277469	Mast cells resting
+TCGA-IG-A8O2-01A	High	0.0487042293262006	Mast cells resting
+TCGA-RE-A7BO-01A	High	0.0	Mast cells resting
+TCGA-2H-A9GK-01A	Low	0.0	Mast cells resting
+TCGA-L5-A8NM-01A	High	0.0	Mast cells resting
+TCGA-R6-A6DN-01B	High	0.0	Mast cells resting
+TCGA-VR-A8EW-01A	High	0.0	Mast cells resting
+TCGA-V5-AASX-01A	Low	0.0621354382477931	Mast cells resting
+TCGA-IG-A6QS-01A	High	0.0	Mast cells resting
+TCGA-L7-A56G-01A	Low	0.0	Mast cells resting
+TCGA-LN-A4A9-01A	Low	0.000699567094958	Mast cells resting
+TCGA-LN-A7HW-01A	Low	0.0	Mast cells resting
+TCGA-LN-A7HY-01A	High	0.0619184670079206	Mast cells resting
+TCGA-IG-A97I-01A	High	0.0	Mast cells resting
+TCGA-LN-A7HX-01A	High	0.0272347388079274	Mast cells resting
+TCGA-LN-A9FR-01A	Low	0.0395520665614086	Mast cells resting
+TCGA-LN-A49P-01A	High	0.034536813462633	Mast cells resting
+TCGA-LN-A5U6-01A	Low	0.0478929129991126	Mast cells resting
+TCGA-VR-A8ER-01A	High	0.0	Mast cells resting
+TCGA-LN-A4A1-01A	Low	0.0	Mast cells resting
+TCGA-LN-A49X-01A	Low	0.0	Mast cells resting
+TCGA-LN-A49M-01A	High	0.038091004999945	Mast cells resting
+TCGA-R6-A8WG-01A	High	0.0215546842663177	Mast cells resting
+TCGA-LN-A9FQ-01A	Low	0.0683790647393196	Mast cells resting
+TCGA-LN-A7HZ-01A	High	0.0469867262316604	Mast cells resting
+TCGA-LN-A8I1-01A	Low	0.0	Mast cells resting
+TCGA-L5-A8NL-01A	High	0.098173343484912	Mast cells resting
+TCGA-LN-A49W-01A	High	0.0	Mast cells resting
+TCGA-LN-A49O-01A	High	0.0	Mast cells resting
+TCGA-L5-A8NS-01A	High	0.0335578491432194	Mast cells resting
+TCGA-2H-A9GI-01A	Low	0.0	Mast cells resting
+TCGA-IG-A97H-01A	Low	0.0	Mast cells resting
+TCGA-IG-A7DP-01A	Low	0.0258071097354769	Mast cells resting
+TCGA-LN-A49U-01A	Low	0.000954143766539	Mast cells resting
+TCGA-V5-AASV-01A	Low	0.0382033710054987	Mast cells resting
+TCGA-L5-A88S-01A	High	0.137253100280287	Mast cells resting
+TCGA-LN-A4A8-01A	Low	0.0385310090784278	Mast cells resting
+TCGA-IC-A6RF-01A	Low	0.0093448833510144	Mast cells resting
+TCGA-R6-A8W5-01B	High	0.0	Mast cells resting
+TCGA-VR-AA7I-01A	Low	0.0460738356443047	Mast cells resting
+TCGA-IG-A51D-01A	Low	0.0296157879544673	Mast cells resting
+TCGA-VR-AA4G-01A	High	0.0079737837287498	Mast cells resting
+TCGA-VR-A8EZ-01A	High	0.0690456763852447	Mast cells resting
+TCGA-VR-A8EU-01A	High	0.0	Mast cells resting
+TCGA-IG-A4P3-01A	Low	0.0418209440922918	Mast cells resting
+TCGA-S8-A6BV-01A	High	0.0553642006060376	Mast cells resting
+TCGA-IG-A3YC-01A	Low	0.0298785574076574	Mast cells resting
+TCGA-IG-A3YA-01A	Low	0.0414518171893784	Mast cells resting
+TCGA-L5-A8NQ-01A	Low	0.0914420486142466	Mast cells resting
+TCGA-JY-A939-01A	Low	0.0540374746596907	Mast cells resting
+TCGA-LN-A4A5-01A	Low	0.0538754405473885	Mast cells resting
+TCGA-VR-A8EQ-01A	High	0.0	Mast cells resting
+TCGA-L5-A4OE-01A	High	0.0	Mast cells resting
+TCGA-JY-A93E-01A	High	0.0100258629253842	Mast cells resting
+TCGA-LN-A5U7-01A	Low	0.0477648868755845	Mast cells resting
+TCGA-2H-A9GF-01A	High	0.0381818908708082	Mast cells resting
+TCGA-VR-A8EO-01A	Low	0.0	Mast cells resting
+TCGA-L5-A8NT-01A	High	0.120477583985893	Mast cells resting
+TCGA-VR-A8EX-01A	Low	0.0248362539025292	Mast cells resting
+TCGA-L5-A4OU-01A	High	0.0530331884683029	Mast cells resting
+TCGA-JY-A93D-01A	Low	0.0942947421464328	Mast cells resting
+TCGA-2H-A9GR-01A	Low	0.0502063260806583	Mast cells resting
+TCGA-VR-A8EY-01A	Low	0.0	Mast cells resting
+TCGA-JY-A938-01A	Low	0.0710040549171323	Mast cells resting
+TCGA-L5-A4OS-01A	Low	0.0	Mast cells resting
+TCGA-VR-A8Q7-01A	Low	0.0459603155782094	Mast cells resting
+TCGA-L5-A8NV-01A	High	0.118527442158002	Mast cells resting
+TCGA-R6-A6Y0-01B	Low	0.0	Mast cells resting
+TCGA-JY-A6FD-01A	Low	0.0	Mast cells resting
+TCGA-L5-A8NU-01A	Low	0.0192485692188026	Mast cells resting
+TCGA-LN-A9FO-01A	High	0.0215274914693884	Mast cells activated
+TCGA-IG-A50L-01A	High	0.0095376050853305	Mast cells activated
+TCGA-Z6-A8JE-01A	High	0.0	Mast cells activated
+TCGA-IG-A3YB-01A	Low	0.0	Mast cells activated
+TCGA-Z6-AAPN-01A	High	0.0	Mast cells activated
+TCGA-L5-A893-01A	Low	0.0682909295390157	Mast cells activated
+TCGA-L5-A43C-01A	Low	0.210453108820384	Mast cells activated
+TCGA-L5-A4OO-01A	High	0.0	Mast cells activated
+TCGA-Z6-A8JD-01A	Low	0.0650780476156138	Mast cells activated
+TCGA-V5-A7RC-06A	High	0.0	Mast cells activated
+TCGA-V5-A7RC-01B	High	0.0129474010698563	Mast cells activated
+TCGA-JY-A6FE-01A	Low	0.0142658076942713	Mast cells activated
+TCGA-LN-A5U5-01A	High	0.0	Mast cells activated
+TCGA-IG-A8O2-01A	High	0.0	Mast cells activated
+TCGA-RE-A7BO-01A	High	0.101460246286409	Mast cells activated
+TCGA-2H-A9GK-01A	Low	0.0899386419628021	Mast cells activated
+TCGA-L5-A8NM-01A	High	0.0430465678059987	Mast cells activated
+TCGA-R6-A6DN-01B	High	0.126903603943858	Mast cells activated
+TCGA-VR-A8EW-01A	High	0.0684319924538886	Mast cells activated
+TCGA-V5-AASX-01A	Low	0.0	Mast cells activated
+TCGA-IG-A6QS-01A	High	0.0884346483349247	Mast cells activated
+TCGA-L7-A56G-01A	Low	0.0105568711625453	Mast cells activated
+TCGA-LN-A4A9-01A	Low	0.0314930235779101	Mast cells activated
+TCGA-LN-A7HW-01A	Low	0.068004067033554	Mast cells activated
+TCGA-LN-A7HY-01A	High	0.0	Mast cells activated
+TCGA-IG-A97I-01A	High	0.0	Mast cells activated
+TCGA-LN-A7HX-01A	High	0.0	Mast cells activated
+TCGA-LN-A9FR-01A	Low	0.0	Mast cells activated
+TCGA-LN-A49P-01A	High	0.0	Mast cells activated
+TCGA-LN-A5U6-01A	Low	0.0	Mast cells activated
+TCGA-VR-A8ER-01A	High	0.0075326099623882	Mast cells activated
+TCGA-LN-A4A1-01A	Low	0.0643558555428141	Mast cells activated
+TCGA-LN-A49X-01A	Low	0.0286716821239058	Mast cells activated
+TCGA-LN-A49M-01A	High	0.0	Mast cells activated
+TCGA-R6-A8WG-01A	High	0.0038288723235647	Mast cells activated
+TCGA-LN-A9FQ-01A	Low	0.0	Mast cells activated
+TCGA-LN-A7HZ-01A	High	0.0	Mast cells activated
+TCGA-LN-A8I1-01A	Low	0.0180509634631299	Mast cells activated
+TCGA-L5-A8NL-01A	High	0.0	Mast cells activated
+TCGA-LN-A49W-01A	High	0.0045251084077068	Mast cells activated
+TCGA-LN-A49O-01A	High	0.0421880255142505	Mast cells activated
+TCGA-L5-A8NS-01A	High	0.0	Mast cells activated
+TCGA-2H-A9GI-01A	Low	0.049561603034994	Mast cells activated
+TCGA-IG-A97H-01A	Low	0.124686398716728	Mast cells activated
+TCGA-IG-A7DP-01A	Low	0.0	Mast cells activated
+TCGA-LN-A49U-01A	Low	0.0119922222367326	Mast cells activated
+TCGA-V5-AASV-01A	Low	0.0	Mast cells activated
+TCGA-L5-A88S-01A	High	0.0	Mast cells activated
+TCGA-LN-A4A8-01A	Low	0.0	Mast cells activated
+TCGA-IC-A6RF-01A	Low	0.0	Mast cells activated
+TCGA-R6-A8W5-01B	High	0.0461909573609503	Mast cells activated
+TCGA-VR-AA7I-01A	Low	0.0	Mast cells activated
+TCGA-IG-A51D-01A	Low	0.0	Mast cells activated
+TCGA-VR-AA4G-01A	High	0.0	Mast cells activated
+TCGA-VR-A8EZ-01A	High	0.0	Mast cells activated
+TCGA-VR-A8EU-01A	High	0.0214046318413499	Mast cells activated
+TCGA-IG-A4P3-01A	Low	0.0	Mast cells activated
+TCGA-S8-A6BV-01A	High	0.0	Mast cells activated
+TCGA-IG-A3YC-01A	Low	0.0	Mast cells activated
+TCGA-IG-A3YA-01A	Low	0.0	Mast cells activated
+TCGA-L5-A8NQ-01A	Low	0.0	Mast cells activated
+TCGA-JY-A939-01A	Low	0.0	Mast cells activated
+TCGA-LN-A4A5-01A	Low	0.0	Mast cells activated
+TCGA-VR-A8EQ-01A	High	0.17980042374779	Mast cells activated
+TCGA-L5-A4OE-01A	High	0.0035651007620515	Mast cells activated
+TCGA-JY-A93E-01A	High	0.0	Mast cells activated
+TCGA-LN-A5U7-01A	Low	0.0	Mast cells activated
+TCGA-2H-A9GF-01A	High	0.0	Mast cells activated
+TCGA-VR-A8EO-01A	Low	0.102221215894591	Mast cells activated
+TCGA-L5-A8NT-01A	High	0.0	Mast cells activated
+TCGA-VR-A8EX-01A	Low	0.0	Mast cells activated
+TCGA-L5-A4OU-01A	High	0.0	Mast cells activated
+TCGA-JY-A93D-01A	Low	0.0	Mast cells activated
+TCGA-2H-A9GR-01A	Low	0.0	Mast cells activated
+TCGA-VR-A8EY-01A	Low	0.126077068057435	Mast cells activated
+TCGA-JY-A938-01A	Low	0.0	Mast cells activated
+TCGA-L5-A4OS-01A	Low	0.0560833735928231	Mast cells activated
+TCGA-VR-A8Q7-01A	Low	0.0	Mast cells activated
+TCGA-L5-A8NV-01A	High	0.0	Mast cells activated
+TCGA-R6-A6Y0-01B	Low	0.181894973971705	Mast cells activated
+TCGA-JY-A6FD-01A	Low	0.0594437472395282	Mast cells activated
+TCGA-L5-A8NU-01A	Low	0.0	Mast cells activated
+TCGA-LN-A9FO-01A	High	0.0	Eosinophils
+TCGA-IG-A50L-01A	High	0.0	Eosinophils
+TCGA-Z6-A8JE-01A	High	0.0	Eosinophils
+TCGA-IG-A3YB-01A	Low	0.0	Eosinophils
+TCGA-Z6-AAPN-01A	High	0.0	Eosinophils
+TCGA-L5-A893-01A	Low	0.0	Eosinophils
+TCGA-L5-A43C-01A	Low	0.0	Eosinophils
+TCGA-L5-A4OO-01A	High	0.0	Eosinophils
+TCGA-Z6-A8JD-01A	Low	0.0	Eosinophils
+TCGA-V5-A7RC-06A	High	0.0	Eosinophils
+TCGA-V5-A7RC-01B	High	0.0	Eosinophils
+TCGA-JY-A6FE-01A	Low	0.0	Eosinophils
+TCGA-LN-A5U5-01A	High	0.0	Eosinophils
+TCGA-IG-A8O2-01A	High	0.0	Eosinophils
+TCGA-RE-A7BO-01A	High	0.0	Eosinophils
+TCGA-2H-A9GK-01A	Low	0.0	Eosinophils
+TCGA-L5-A8NM-01A	High	0.0	Eosinophils
+TCGA-R6-A6DN-01B	High	0.0	Eosinophils
+TCGA-VR-A8EW-01A	High	0.0	Eosinophils
+TCGA-V5-AASX-01A	Low	0.0	Eosinophils
+TCGA-IG-A6QS-01A	High	0.0	Eosinophils
+TCGA-L7-A56G-01A	Low	0.0	Eosinophils
+TCGA-LN-A4A9-01A	Low	0.0	Eosinophils
+TCGA-LN-A7HW-01A	Low	0.0	Eosinophils
+TCGA-LN-A7HY-01A	High	0.0	Eosinophils
+TCGA-IG-A97I-01A	High	0.0	Eosinophils
+TCGA-LN-A7HX-01A	High	0.0	Eosinophils
+TCGA-LN-A9FR-01A	Low	0.0022043114417086	Eosinophils
+TCGA-LN-A49P-01A	High	0.0	Eosinophils
+TCGA-LN-A5U6-01A	Low	0.0	Eosinophils
+TCGA-VR-A8ER-01A	High	0.0027599300071736	Eosinophils
+TCGA-LN-A4A1-01A	Low	0.0	Eosinophils
+TCGA-LN-A49X-01A	Low	0.0	Eosinophils
+TCGA-LN-A49M-01A	High	0.0	Eosinophils
+TCGA-R6-A8WG-01A	High	0.0	Eosinophils
+TCGA-LN-A9FQ-01A	Low	0.0	Eosinophils
+TCGA-LN-A7HZ-01A	High	0.0	Eosinophils
+TCGA-LN-A8I1-01A	Low	0.0059237588588228	Eosinophils
+TCGA-L5-A8NL-01A	High	0.0	Eosinophils
+TCGA-LN-A49W-01A	High	0.0	Eosinophils
+TCGA-LN-A49O-01A	High	0.0	Eosinophils
+TCGA-L5-A8NS-01A	High	0.0	Eosinophils
+TCGA-2H-A9GI-01A	Low	0.0	Eosinophils
+TCGA-IG-A97H-01A	Low	0.0	Eosinophils
+TCGA-IG-A7DP-01A	Low	0.0	Eosinophils
+TCGA-LN-A49U-01A	Low	0.0	Eosinophils
+TCGA-V5-AASV-01A	Low	0.0	Eosinophils
+TCGA-L5-A88S-01A	High	0.0	Eosinophils
+TCGA-LN-A4A8-01A	Low	0.0	Eosinophils
+TCGA-IC-A6RF-01A	Low	0.0	Eosinophils
+TCGA-R6-A8W5-01B	High	0.0	Eosinophils
+TCGA-VR-AA7I-01A	Low	0.0	Eosinophils
+TCGA-IG-A51D-01A	Low	0.0	Eosinophils
+TCGA-VR-AA4G-01A	High	0.0	Eosinophils
+TCGA-VR-A8EZ-01A	High	0.0	Eosinophils
+TCGA-VR-A8EU-01A	High	0.0	Eosinophils
+TCGA-IG-A4P3-01A	Low	0.0	Eosinophils
+TCGA-S8-A6BV-01A	High	0.0	Eosinophils
+TCGA-IG-A3YC-01A	Low	0.0	Eosinophils
+TCGA-IG-A3YA-01A	Low	0.0	Eosinophils
+TCGA-L5-A8NQ-01A	Low	0.0	Eosinophils
+TCGA-JY-A939-01A	Low	0.0	Eosinophils
+TCGA-LN-A4A5-01A	Low	0.0	Eosinophils
+TCGA-VR-A8EQ-01A	High	0.0	Eosinophils
+TCGA-L5-A4OE-01A	High	0.0	Eosinophils
+TCGA-JY-A93E-01A	High	0.0	Eosinophils
+TCGA-LN-A5U7-01A	Low	0.0	Eosinophils
+TCGA-2H-A9GF-01A	High	0.0	Eosinophils
+TCGA-VR-A8EO-01A	Low	0.0	Eosinophils
+TCGA-L5-A8NT-01A	High	0.0	Eosinophils
+TCGA-VR-A8EX-01A	Low	0.0	Eosinophils
+TCGA-L5-A4OU-01A	High	0.0	Eosinophils
+TCGA-JY-A93D-01A	Low	0.0	Eosinophils
+TCGA-2H-A9GR-01A	Low	0.0	Eosinophils
+TCGA-VR-A8EY-01A	Low	0.0	Eosinophils
+TCGA-JY-A938-01A	Low	0.0	Eosinophils
+TCGA-L5-A4OS-01A	Low	0.0	Eosinophils
+TCGA-VR-A8Q7-01A	Low	0.0	Eosinophils
+TCGA-L5-A8NV-01A	High	0.0	Eosinophils
+TCGA-R6-A6Y0-01B	Low	0.0	Eosinophils
+TCGA-JY-A6FD-01A	Low	0.0	Eosinophils
+TCGA-L5-A8NU-01A	Low	0.0	Eosinophils
+TCGA-LN-A9FO-01A	High	0.0	Neutrophils
+TCGA-IG-A50L-01A	High	0.0042707361638321	Neutrophils
+TCGA-Z6-A8JE-01A	High	0.0	Neutrophils
+TCGA-IG-A3YB-01A	Low	0.0	Neutrophils
+TCGA-Z6-AAPN-01A	High	0.0040170721755534	Neutrophils
+TCGA-L5-A893-01A	Low	0.0	Neutrophils
+TCGA-L5-A43C-01A	Low	0.0488727371066643	Neutrophils
+TCGA-L5-A4OO-01A	High	4.39750984915061e-05	Neutrophils
+TCGA-Z6-A8JD-01A	Low	0.0	Neutrophils
+TCGA-V5-A7RC-06A	High	0.0036996789245478	Neutrophils
+TCGA-V5-A7RC-01B	High	0.0206914905492084	Neutrophils
+TCGA-JY-A6FE-01A	Low	0.0076779057600446	Neutrophils
+TCGA-LN-A5U5-01A	High	0.0	Neutrophils
+TCGA-IG-A8O2-01A	High	0.0	Neutrophils
+TCGA-RE-A7BO-01A	High	0.0753470869588325	Neutrophils
+TCGA-2H-A9GK-01A	Low	0.0084395465781526	Neutrophils
+TCGA-L5-A8NM-01A	High	0.0205986714343575	Neutrophils
+TCGA-R6-A6DN-01B	High	0.0094731973115115	Neutrophils
+TCGA-VR-A8EW-01A	High	0.0001109091865601	Neutrophils
+TCGA-V5-AASX-01A	Low	0.0154863206061562	Neutrophils
+TCGA-IG-A6QS-01A	High	0.0	Neutrophils
+TCGA-L7-A56G-01A	Low	0.0	Neutrophils
+TCGA-LN-A4A9-01A	Low	0.0	Neutrophils
+TCGA-LN-A7HW-01A	Low	0.0	Neutrophils
+TCGA-LN-A7HY-01A	High	0.0	Neutrophils
+TCGA-IG-A97I-01A	High	0.0	Neutrophils
+TCGA-LN-A7HX-01A	High	0.0023572900069373	Neutrophils
+TCGA-LN-A9FR-01A	Low	0.0011705789528653	Neutrophils
+TCGA-LN-A49P-01A	High	0.0	Neutrophils
+TCGA-LN-A5U6-01A	Low	0.0	Neutrophils
+TCGA-VR-A8ER-01A	High	0.0001006354713544	Neutrophils
+TCGA-LN-A4A1-01A	Low	0.0	Neutrophils
+TCGA-LN-A49X-01A	Low	0.0	Neutrophils
+TCGA-LN-A49M-01A	High	0.0	Neutrophils
+TCGA-R6-A8WG-01A	High	0.0	Neutrophils
+TCGA-LN-A9FQ-01A	Low	0.0043694267801364	Neutrophils
+TCGA-LN-A7HZ-01A	High	0.0	Neutrophils
+TCGA-LN-A8I1-01A	Low	0.0056866858794656	Neutrophils
+TCGA-L5-A8NL-01A	High	0.0065938022037243	Neutrophils
+TCGA-LN-A49W-01A	High	0.0059354104184065	Neutrophils
+TCGA-LN-A49O-01A	High	0.0	Neutrophils
+TCGA-L5-A8NS-01A	High	0.0051852096525002	Neutrophils
+TCGA-2H-A9GI-01A	Low	0.016459186899974	Neutrophils
+TCGA-IG-A97H-01A	Low	0.0039143568348506	Neutrophils
+TCGA-IG-A7DP-01A	Low	0.0	Neutrophils
+TCGA-LN-A49U-01A	Low	0.0	Neutrophils
+TCGA-V5-AASV-01A	Low	0.0	Neutrophils
+TCGA-L5-A88S-01A	High	0.0072270039966509	Neutrophils
+TCGA-LN-A4A8-01A	Low	0.0	Neutrophils
+TCGA-IC-A6RF-01A	Low	0.0210475347877744	Neutrophils
+TCGA-R6-A8W5-01B	High	0.102479719380039	Neutrophils
+TCGA-VR-AA7I-01A	Low	0.0	Neutrophils
+TCGA-IG-A51D-01A	Low	0.0	Neutrophils
+TCGA-VR-AA4G-01A	High	0.0	Neutrophils
+TCGA-VR-A8EZ-01A	High	0.0	Neutrophils
+TCGA-VR-A8EU-01A	High	0.0003975249106085	Neutrophils
+TCGA-IG-A4P3-01A	Low	0.0	Neutrophils
+TCGA-S8-A6BV-01A	High	0.0	Neutrophils
+TCGA-IG-A3YC-01A	Low	0.0	Neutrophils
+TCGA-IG-A3YA-01A	Low	0.0	Neutrophils
+TCGA-L5-A8NQ-01A	Low	0.0018535864047874	Neutrophils
+TCGA-JY-A939-01A	Low	0.0	Neutrophils
+TCGA-LN-A4A5-01A	Low	0.0	Neutrophils
+TCGA-VR-A8EQ-01A	High	0.007726001751596	Neutrophils
+TCGA-L5-A4OE-01A	High	0.0056280910407996	Neutrophils
+TCGA-JY-A93E-01A	High	0.0047717906754607	Neutrophils
+TCGA-LN-A5U7-01A	Low	0.0	Neutrophils
+TCGA-2H-A9GF-01A	High	0.0	Neutrophils
+TCGA-VR-A8EO-01A	Low	0.002760124332603	Neutrophils
+TCGA-L5-A8NT-01A	High	0.0104051655418533	Neutrophils
+TCGA-VR-A8EX-01A	Low	0.0	Neutrophils
+TCGA-L5-A4OU-01A	High	8.70482086690979e-07	Neutrophils
+TCGA-JY-A93D-01A	Low	0.0	Neutrophils
+TCGA-2H-A9GR-01A	Low	0.0	Neutrophils
+TCGA-VR-A8EY-01A	Low	0.0	Neutrophils
+TCGA-JY-A938-01A	Low	0.0262540528276589	Neutrophils
+TCGA-L5-A4OS-01A	Low	0.0009248862172038	Neutrophils
+TCGA-VR-A8Q7-01A	Low	0.0080761769360257	Neutrophils
+TCGA-L5-A8NV-01A	High	0.0087817936281858	Neutrophils
+TCGA-R6-A6Y0-01B	Low	0.0128208160936433	Neutrophils
+TCGA-JY-A6FD-01A	Low	0.0	Neutrophils
+TCGA-L5-A8NU-01A	Low	0.0087186726340817	Neutrophils
