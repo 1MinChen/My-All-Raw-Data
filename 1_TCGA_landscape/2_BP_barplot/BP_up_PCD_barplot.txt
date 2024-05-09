@@ -1,0 +1,12 @@
+Term	Count	PValue
+apoptotic process	80	6.482524128443098e-51
+positive regulation of apoptotic process	36	1.6013091247568437e-19
+positive regulation of I-kappaB kinase/NF-kappaB signaling	25	7.543870334285691e-15
+extrinsic apoptotic signaling pathway via death domain receptors	13	4.154295133584612e-13
+cellular response to DNA damage stimulus	27	6.132347308529111e-13
+regulation of autophagy	15	6.712203383061092e-12
+positive regulation of interleukin-8 production	12	3.248701509683104e-09
+positive regulation of protein phosphorylation	19	1.0378076175012842e-08
+signal transduction	48	2.3994413058595243e-08
+regulation of cell cycle	20	2.6761524500634385e-08
+cellular response to lipopolysaccharide	17	5.674414445541676e-08

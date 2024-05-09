@@ -1,0 +1,11 @@
+Term	Count	PValue
+cellular response to glucose stimulus	5	2.0522699139719223e-05
+protein phosphorylation	8	3.577115392465534e-05
+positive regulation of macroautophagy	3	0.002193614716992
+negative regulation of TORC1 signaling	3	0.0045937678408706
+cellular response to glucose starvation	3	0.0075592431567092
+negative regulation of oxidative stress-induced cell death	2	0.0125752392477373
+positive regulation of autophagy	3	0.0151043720707397
+cellular response to oxidative stress	3	0.0177698339508288
+positive regulation of cell migration	4	0.0185439634349916
+cytokine-mediated signaling pathway	3	0.0446881337960526
